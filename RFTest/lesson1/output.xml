@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot generator="Robot 3.1.2 (Python 3.6.0 on win32)" generated="20200323 22:19:49.708" rpa="false">
+<suite id="s1" name="Test" source="D:\Tools\PythonProjects\Charging\RFTest\lesson1\test.robot">
+<test id="s1-t1" name="用例1">
+<kw name="Log To Console" library="BuiltIn">
+<doc>Logs the given message to the console.</doc>
+<arguments>
+<arg>hello robot</arg>
+</arguments>
+<status status="PASS" starttime="20200323 22:19:49.858" endtime="20200323 22:19:49.858"></status>
+</kw>
+<status status="PASS" starttime="20200323 22:19:49.858" endtime="20200323 22:19:49.868" critical="yes"></status>
+</test>
+<test id="s1-t2" name="用例2">
+<kw name="Log To Console" library="BuiltIn">
+<doc>Logs the given message to the console.</doc>
+<arguments>
+<arg>测试用例2</arg>
+</arguments>
+<status status="PASS" starttime="20200323 22:19:49.868" endtime="20200323 22:19:49.868"></status>
+</kw>
+<status status="PASS" starttime="20200323 22:19:49.868" endtime="20200323 22:19:49.868" critical="yes"></status>
+</test>
+<test id="s1-t3" name="用例3">
+<kw name="Open Browser" library="SeleniumLibrary">
+<doc>Opens a new browser instance to the optional ``url``.</doc>
+<arguments>
+<arg>https://www.baidu.com</arg>
+<arg>chrome</arg>
+</arguments>
+<msg timestamp="20200323 22:19:49.868" level="INFO">Opening browser 'chrome' to base url 'https://www.baidu.com'.</msg>
+<status status="PASS" starttime="20200323 22:19:49.868" endtime="20200323 22:19:55.739"></status>
+</kw>
+<kw name="Set Selenium Implicit Wait" library="SeleniumLibrary">
+<doc>Sets the implicit wait value used by Selenium.</doc>
+<arguments>
+<arg>1</arg>
+</arguments>
+<status status="PASS" starttime="20200323 22:19:55.740" endtime="20200323 22:19:55.742"></status>
+</kw>
+<kw name="Input Text" library="SeleniumLibrary">
+<doc>Types the given ``text`` into the text field identified by ``locator``.</doc>
+<arguments>
+<arg>id=kw</arg>
+<arg>松勤\n</arg>
+</arguments>
+<msg timestamp="20200323 22:19:55.743" level="INFO">Typing text '松勤
+' into text field 'id=kw'.</msg>
+<status status="PASS" starttime="20200323 22:19:55.743" endtime="20200323 22:19:55.909"></status>
+</kw>
+<kw name="Get Text" library="SeleniumLibrary">
+<doc>Returns the text value of the element identified by ``locator``.</doc>
+<arguments>
+<arg>id=1</arg>
+</arguments>
+<assign>
+<var>${res}</var>
+</assign>
+<msg timestamp="20200323 22:19:56.629" level="INFO">${res} = 松勤网 - 松勤软件测试-软件测试在线教育领跑者-国内最专业的软件...
+松勤是一家专注于软件测试技能培训的在线教育机构。目前已开设软件测试相关课程100余门,涵盖软件测试基础、自动化测试、性能测试、安全测试、接口测试、认证考试、职场...
+www.songqinnet.com/  - 百度快照 - 评价</msg>
+<status status="PASS" starttime="20200323 22:19:55.909" endtime="20200323 22:19:56.629"></status>
+</kw>
+<kw name="Should Contain" library="BuiltIn">
+<doc>Fails if ``container`` does not contain ``item`` one or more times.</doc>
+<arguments>
+<arg>${res}</arg>
+<arg>松勤网</arg>
+</arguments>
+<status status="PASS" starttime="20200323 22:19:56.630" endtime="20200323 22:19:56.630"></status>
+</kw>
+<kw name="Close Browser" library="SeleniumLibrary">
+<doc>Closes the current browser.</doc>
+<status status="PASS" starttime="20200323 22:19:56.631" endtime="20200323 22:19:58.781"></status>
+</kw>
+<status status="PASS" starttime="20200323 22:19:49.868" endtime="20200323 22:19:58.781" critical="yes"></status>
+</test>
+<status status="PASS" starttime="20200323 22:19:49.708" endtime="20200323 22:19:58.781"></status>
+</suite>
+<statistics>
+<total>
+<stat pass="3" fail="0">Critical Tests</stat>
+<stat pass="3" fail="0">All Tests</stat>
+</total>
+<tag>
+</tag>
+<suite>
+<stat pass="3" fail="0" id="s1" name="Test">Test</stat>
+</suite>
+</statistics>
+<errors>
+</errors>
+</robot>

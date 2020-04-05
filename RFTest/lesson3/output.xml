@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot generator="Robot 3.1.2 (Python 3.6.0 on win32)" generated="20200401 10:08:16.569" rpa="false">
+<suite id="s1" name="S2" source="D:\Tools\PythonProjects\Charging\RFTest\lesson3\s2.robot">
+<test id="s1-t1" name="测试1">
+<kw name="Log To Console" library="BuiltIn" type="setup">
+<doc>Logs the given message to the console.</doc>
+<arguments>
+<arg>刚刚开启时，清除部分用例数据</arg>
+</arguments>
+<status status="PASS" starttime="20200401 10:08:16.691" endtime="20200401 10:08:16.705"></status>
+</kw>
+<kw name="Create List" library="BuiltIn">
+<doc>Returns a list containing given items.</doc>
+<arguments>
+<arg>hello</arg>
+<arg>world</arg>
+</arguments>
+<assign>
+<var>${var}</var>
+</assign>
+<msg timestamp="20200401 10:08:16.707" level="INFO">${var} = ['hello', 'world']</msg>
+<status status="PASS" starttime="20200401 10:08:16.707" endtime="20200401 10:08:16.707"></status>
+</kw>
+<kw name="Append To List" library="Collections">
+<doc>Adds ``values`` to the end of ``list``.</doc>
+<arguments>
+<arg>${var}</arg>
+<arg>a</arg>
+<arg>b</arg>
+<arg>c</arg>
+</arguments>
+<status status="PASS" starttime="20200401 10:08:16.709" endtime="20200401 10:08:16.709"></status>
+</kw>
+<kw name="Log To Console" library="BuiltIn">
+<doc>Logs the given message to the console.</doc>
+<arguments>
+<arg>${var}</arg>
+</arguments>
+<status status="PASS" starttime="20200401 10:08:16.710" endtime="20200401 10:08:16.710"></status>
+</kw>
+<kw name="Fail" library="BuiltIn">
+<doc>Fails the test with the given message and optionally alters its tags.</doc>
+<msg timestamp="20200401 10:08:16.711" level="FAIL">AssertionError</msg>
+<status status="FAIL" starttime="20200401 10:08:16.711" endtime="20200401 10:08:16.711"></status>
+</kw>
+<kw name="Log To Console" library="BuiltIn" type="teardown">
+<doc>Logs the given message to the console.</doc>
+<arguments>
+<arg>最后结束时执行的部分</arg>
+</arguments>
+<status status="PASS" starttime="20200401 10:08:16.712" endtime="20200401 10:08:16.712"></status>
+</kw>
+<status status="FAIL" starttime="20200401 10:08:16.690" endtime="20200401 10:08:16.713" critical="yes">AssertionError</status>
+</test>
+<status status="FAIL" starttime="20200401 10:08:16.585" endtime="20200401 10:08:16.715"></status>
+</suite>
+<statistics>
+<total>
+<stat pass="0" fail="1">Critical Tests</stat>
+<stat pass="0" fail="1">All Tests</stat>
+</total>
+<tag>
+</tag>
+<suite>
+<stat pass="0" fail="1" id="s1" name="S2">S2</stat>
+</suite>
+</statistics>
+<errors>
+</errors>
+</robot>
