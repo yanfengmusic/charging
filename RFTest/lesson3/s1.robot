@@ -60,7 +60,7 @@ Library  Collections
 测试5
     ${dict1}   create dictionary  a=1,b=3,c=2
     set to dictionary  ${dict1}   e = 4  f=5
-    evaluate   $dict['a'] = 2020
+    evaluate   $dict['a'] = 2020  #使用evaluate时，他调用的是eval,本身就是不能被赋值的东西
     log to console   ${dict1}
 
 
