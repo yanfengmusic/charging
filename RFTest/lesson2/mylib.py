@@ -24,7 +24,7 @@ def printargs(*args,**kwargs):
         print("*** args are ***")
         print("-------------------------")
         for one in args:
-            print(repr(one))
+            print(repr(one))  #打印出原型
     if len(kwargs) == 0:
         print("*** no kwargs ***")
     else:

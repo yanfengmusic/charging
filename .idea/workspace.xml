@@ -1,7 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7b2d2920-b909-42f2-88a0-7002a8430bae" name="Default Changelist" comment="" />
+    <list default="true" id="7b2d2920-b909-42f2-88a0-7002a8430bae" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/Charging.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Charging.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RFTest/lesson1/log.html" beforeDir="false" afterPath="$PROJECT_DIR$/RFTest/lesson1/log.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RFTest/lesson1/output.xml" beforeDir="false" afterPath="$PROJECT_DIR$/RFTest/lesson1/output.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RFTest/lesson1/report.html" beforeDir="false" afterPath="$PROJECT_DIR$/RFTest/lesson1/report.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RFTest/lesson2/mylib.py" beforeDir="false" afterPath="$PROJECT_DIR$/RFTest/lesson2/mylib.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RFTest/lesson2/second.robot" beforeDir="false" afterPath="$PROJECT_DIR$/RFTest/lesson2/second.robot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RFTest/lesson3/log.html" beforeDir="false" afterPath="$PROJECT_DIR$/RFTest/lesson3/log.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RFTest/lesson3/output.xml" beforeDir="false" afterPath="$PROJECT_DIR$/RFTest/lesson3/output.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RFTest/lesson3/report.html" beforeDir="false" afterPath="$PROJECT_DIR$/RFTest/lesson3/report.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RFTest/lesson3/s1.robot" beforeDir="false" afterPath="$PROJECT_DIR$/RFTest/lesson3/s1.robot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RFTest/lesson3/s2.robot" beforeDir="false" afterPath="$PROJECT_DIR$/RFTest/lesson3/s2.robot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RFTest/lesson3/s3.robot" beforeDir="false" afterPath="$PROJECT_DIR$/RFTest/lesson3/s3.robot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework/robotTest/homework2/course.robot" beforeDir="false" afterPath="$PROJECT_DIR$/homework/robotTest/homework2/course.robot" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -9,107 +25,110 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/Charging$t1__1_.coverage" NAME="t1 (1) Coverage Results" MODIFIED="1584840949759" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonAdvanced/day06" />
-    <SUITE FILE_PATH="coverage/Charging$homework_5_format.coverage" NAME="homework_5_format Coverage Results" MODIFIED="1578732941761" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework" />
-    <SUITE FILE_PATH="coverage/Charging$homework_15.coverage" NAME="homework_15 Coverage Results" MODIFIED="1582188172160" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework" />
-    <SUITE FILE_PATH="coverage/Charging$homework_9.coverage" NAME="homework_9 Coverage Results" MODIFIED="1580735215949" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework" />
-    <SUITE FILE_PATH="coverage/Charging$14_sortTest.coverage" NAME="14.sortTest Coverage Results" MODIFIED="1578492393359" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/songqin" />
-    <SUITE FILE_PATH="coverage/Charging$16_modules.coverage" NAME="16.modules Coverage Results" MODIFIED="1579059618337" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/songqin" />
-    <SUITE FILE_PATH="coverage/Charging$course_mgr.coverage" NAME="course_mgr Coverage Results" MODIFIED="1585452853526" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework/robotTest/homework1" />
-    <SUITE FILE_PATH="coverage/Charging$selenium1.coverage" NAME="selenium1 Coverage Results" MODIFIED="1584352960716" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework/pythonTest" />
-    <SUITE FILE_PATH="coverage/Charging$test2__1_.coverage" NAME="test2 (1) Coverage Results" MODIFIED="1583905263084" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test/test1" />
-    <SUITE FILE_PATH="coverage/Charging$homework_6_file.coverage" NAME="homework_6_file Coverage Results" MODIFIED="1578551121050" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework" />
-    <SUITE FILE_PATH="coverage/Charging$homework_3_func.coverage" NAME="homework_3_func Coverage Results" MODIFIED="1578198225466" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework" />
-    <SUITE FILE_PATH="coverage/Charging$demo__1_.coverage" NAME="demo (1) Coverage Results" MODIFIED="1582940782344" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/appiumTest/4.MwebTest" />
-    <SUITE FILE_PATH="coverage/Charging$homework_14.coverage" NAME="homework_14 Coverage Results" MODIFIED="1582097648257" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework" />
-    <SUITE FILE_PATH="coverage/Charging$test5.coverage" NAME="test5 Coverage Results" MODIFIED="1584240408566" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonAdvanced/day02" />
-    <SUITE FILE_PATH="coverage/Charging$15_dictionaryTest.coverage" NAME="15.dictionaryTest Coverage Results" MODIFIED="1578794813697" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/songqin" />
     <SUITE FILE_PATH="coverage/Charging$demo_base64.coverage" NAME="demo_base64 Coverage Results" MODIFIED="1585647946706" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/interfaceTest/加密算法" />
-    <SUITE FILE_PATH="coverage/Charging$test4.coverage" NAME="test4 Coverage Results" MODIFIED="1584239943070" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonAdvanced/day02" />
-    <SUITE FILE_PATH="coverage/Charging$homework_21_appinum.coverage" NAME="homework_21_appinum Coverage Results" MODIFIED="1582720642803" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework" />
-    <SUITE FILE_PATH="coverage/Charging$odTest.coverage" NAME="odTest Coverage Results" MODIFIED="1584325881960" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonAdvanced/day03" />
-    <SUITE FILE_PATH="coverage/Charging$17_classTest.coverage" NAME="17.classTest Coverage Results" MODIFIED="1579271401169" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/songqin" />
-    <SUITE FILE_PATH="coverage/Charging$2_listTest.coverage" NAME="2.listTest Coverage Results" MODIFIED="1584234378820" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonAdvanced" />
-    <SUITE FILE_PATH="coverage/Charging$day0.coverage" NAME="day0 Coverage Results" MODIFIED="1584153472894" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonAdvanced" />
-    <SUITE FILE_PATH="coverage/Charging$7_funcTest.coverage" NAME="7.funcTest Coverage Results" MODIFIED="1578790027650" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/songqin" />
-    <SUITE FILE_PATH="coverage/Charging$login.coverage" NAME="login Coverage Results" MODIFIED="1582886620255" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/appiumTest/pytest_test" />
-    <SUITE FILE_PATH="coverage/Charging$3_.coverage" NAME="3.作用域 Coverage Results" MODIFIED="1584364944425" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonAdvanced/day03" />
-    <SUITE FILE_PATH="coverage/Charging$demo3.coverage" NAME="demo3 Coverage Results" MODIFIED="1582973319462" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/appiumTest/4.MwebTest" />
-    <SUITE FILE_PATH="coverage/Charging$homework_16.coverage" NAME="homework_16 Coverage Results" MODIFIED="1582208369384" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework" />
-    <SUITE FILE_PATH="coverage/Charging$homework_13.coverage" NAME="homework_13 Coverage Results" MODIFIED="1581867285283" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework" />
-    <SUITE FILE_PATH="coverage/Charging$IO.coverage" NAME="线程处理IO密集型任务 Coverage Results" MODIFIED="1585038482364" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonAdvanced/day04" />
-    <SUITE FILE_PATH="coverage/Charging$6_.coverage" NAME="6.简单装饰器 Coverage Results" MODIFIED="1584337541098" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonAdvanced/day03" />
-    <SUITE FILE_PATH="coverage/Charging$tt.coverage" NAME="tt Coverage Results" MODIFIED="1580184353823" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/songqin" />
-    <SUITE FILE_PATH="coverage/Charging$client.coverage" NAME="client Coverage Results" MODIFIED="1585062611100" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework/pythonAdvance/homework_4_socket" />
-    <SUITE FILE_PATH="coverage/Charging$2_subprocessTest.coverage" NAME="2.subprocessTest Coverage Results" MODIFIED="1584363609639" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonAdvanced/day03" />
-    <SUITE FILE_PATH="coverage/Charging$mylib.coverage" NAME="mylib Coverage Results" MODIFIED="1585443083596" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/RFTest/lesson2" />
-    <SUITE FILE_PATH="coverage/Charging$test2.coverage" NAME="test2 Coverage Results" MODIFIED="1584279791507" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonAdvanced/day02" />
-    <SUITE FILE_PATH="coverage/Charging$13_.coverage" NAME="13.循环嵌套表达式 Coverage Results" MODIFIED="1578491460136" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/songqin" />
-    <SUITE FILE_PATH="coverage/Charging$Unittests_for_deleteTest_Delete_test_1.coverage" NAME="Unittests for deleteTest.Delete.test_1 Coverage Results" MODIFIED="1584195695278" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonAdvanced" />
-    <SUITE FILE_PATH="coverage/Charging$t2.coverage" NAME="t2 Coverage Results" MODIFIED="1584613574637" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/interfaceTest" />
+    <SUITE FILE_PATH="coverage/Charging$16_modules.coverage" NAME="16.modules Coverage Results" MODIFIED="1579059618337" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/songqin" />
+    <SUITE FILE_PATH="coverage/Charging$homework_20_appinum.coverage" NAME="homework_20_appinum Coverage Results" MODIFIED="1582633895888" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework" />
+    <SUITE FILE_PATH="coverage/Charging$homework_3_func.coverage" NAME="homework_3_func Coverage Results" MODIFIED="1578198225466" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework" />
+    <SUITE FILE_PATH="coverage/Charging$15_dictionaryTest.coverage" NAME="15.dictionaryTest Coverage Results" MODIFIED="1578794813697" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/songqin" />
     <SUITE FILE_PATH="coverage/Charging$6_inputTest.coverage" NAME="6.inputTest Coverage Results" MODIFIED="1577874221568" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/songqin" />
+    <SUITE FILE_PATH="coverage/Charging$login__1_.coverage" NAME="login (1) Coverage Results" MODIFIED="1583105398477" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/appiumTest/pytest_active" />
+    <SUITE FILE_PATH="coverage/Charging$homework_7_sort.coverage" NAME="homework_7_sort Coverage Results" MODIFIED="1584349605064" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework/pythonTest" />
+    <SUITE FILE_PATH="coverage/Charging$homework_6_file.coverage" NAME="homework_6_file Coverage Results" MODIFIED="1578551121050" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework" />
+    <SUITE FILE_PATH="coverage/Charging$2_listTest.coverage" NAME="2.listTest Coverage Results" MODIFIED="1584234378820" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonAdvanced" />
+    <SUITE FILE_PATH="coverage/Charging$homework_16.coverage" NAME="homework_16 Coverage Results" MODIFIED="1582208369384" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework" />
+    <SUITE FILE_PATH="coverage/Charging$test1.coverage" NAME="test1 Coverage Results" MODIFIED="1584582991787" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/interfaceTest" />
+    <SUITE FILE_PATH="coverage/Charging$test.coverage" NAME="test Coverage Results" MODIFIED="1585061436043" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework/pythonAdvance/homework_4_socket" />
+    <SUITE FILE_PATH="coverage/Charging$1_threadTest.coverage" NAME="1.threadTest Coverage Results" MODIFIED="1584534515522" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonAdvanced/day04" />
+    <SUITE FILE_PATH="coverage/Charging$homework_5_format.coverage" NAME="homework_5_format Coverage Results" MODIFIED="1578732941761" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework" />
+    <SUITE FILE_PATH="coverage/Charging$login.coverage" NAME="login Coverage Results" MODIFIED="1582886620255" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/appiumTest/pytest_test" />
+    <SUITE FILE_PATH="coverage/Charging$.coverage" NAME="线程处理计算密集型任务 Coverage Results" MODIFIED="1585038540662" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonAdvanced/day04" />
+    <SUITE FILE_PATH="coverage/Charging$homework_19_appinum.coverage" NAME="homework_19_appinum Coverage Results" MODIFIED="1582638451197" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework" />
+    <SUITE FILE_PATH="coverage/Charging$homework_9.coverage" NAME="homework_9 Coverage Results" MODIFIED="1580735215949" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework" />
+    <SUITE FILE_PATH="coverage/Charging$1_envireonmentBuild.coverage" NAME="1.envireonmentBuild Coverage Results" MODIFIED="1582296708495" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/appiumTest/lesson1" />
+    <SUITE FILE_PATH="coverage/Charging$12_fileTest.coverage" NAME="12.fileTest Coverage Results" MODIFIED="1580569105203" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/songqin" />
+    <SUITE FILE_PATH="coverage/Charging$demo.coverage" NAME="demo Coverage Results" MODIFIED="1583247192432" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/appiumTest/2.setup&amp;teardown" />
+    <SUITE FILE_PATH="coverage/Charging$modulesTest3.coverage" NAME="modulesTest3 Coverage Results" MODIFIED="1583206899362" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework" />
+    <SUITE FILE_PATH="coverage/Charging$serviceTest.coverage" NAME="serviceTest Coverage Results" MODIFIED="1584712427941" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonAdvanced/day05" />
+    <SUITE FILE_PATH="coverage/Charging$course_mgr.coverage" NAME="course_mgr Coverage Results" MODIFIED="1585452853526" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework/robotTest/homework1" />
+    <SUITE FILE_PATH="coverage/Charging$11_forTest.coverage" NAME="11.forTest Coverage Results" MODIFIED="1578318948050" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/songqin" />
+    <SUITE FILE_PATH="coverage/Charging$subprocessTest.coverage" NAME="subprocessTest Coverage Results" MODIFIED="1584326446552" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonAdvanced/day03" />
+    <SUITE FILE_PATH="coverage/Charging$4_bool.coverage" NAME="4.bool Coverage Results" MODIFIED="1577871137370" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/songqin" />
+    <SUITE FILE_PATH="coverage/Charging$huawei.coverage" NAME="huawei Coverage Results" MODIFIED="1585457026821" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework/robotTest/homework1" />
+    <SUITE FILE_PATH="coverage/Charging$1_.coverage" NAME="1.计算机切换 Coverage Results" MODIFIED="1584532046098" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonAdvanced/day04" />
+    <SUITE FILE_PATH="coverage/Charging$homework_18_appinum.coverage" NAME="homework_18_appinum Coverage Results" MODIFIED="1582561112628" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework" />
+    <SUITE FILE_PATH="coverage/Charging$Unittests_for_deleteTest_Delete_test_1.coverage" NAME="Unittests for deleteTest.Delete.test_1 Coverage Results" MODIFIED="1584195695278" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonAdvanced" />
+    <SUITE FILE_PATH="coverage/Charging$7_funcTest.coverage" NAME="7.funcTest Coverage Results" MODIFIED="1578790027650" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/songqin" />
+    <SUITE FILE_PATH="coverage/Charging$13_.coverage" NAME="13.循环嵌套表达式 Coverage Results" MODIFIED="1578491460136" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/songqin" />
+    <SUITE FILE_PATH="coverage/Charging$homework_5_sort.coverage" NAME="homework_5_sort Coverage Results" MODIFIED="1578551353397" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework" />
+    <SUITE FILE_PATH="coverage/Charging$interviewing.coverage" NAME="interviewing Coverage Results" MODIFIED="1584197428751" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonAdvanced" />
+    <SUITE FILE_PATH="coverage/Charging$demo2.coverage" NAME="demo2 Coverage Results" MODIFIED="1582984272304" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/appiumTest/4.MwebTest" />
+    <SUITE FILE_PATH="coverage/Charging$copyTest.coverage" NAME="copyTest Coverage Results" MODIFIED="1578037841128" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework" />
+    <SUITE FILE_PATH="coverage/Charging$odTest.coverage" NAME="odTest Coverage Results" MODIFIED="1584325881960" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonAdvanced/day03" />
+    <SUITE FILE_PATH="coverage/Charging$homework_14.coverage" NAME="homework_14 Coverage Results" MODIFIED="1582097648257" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework" />
+    <SUITE FILE_PATH="coverage/Charging$test3.coverage" NAME="test3 Coverage Results" MODIFIED="1584239291753" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonAdvanced/day02" />
+    <SUITE FILE_PATH="coverage/Charging$t1__1_.coverage" NAME="t1 (1) Coverage Results" MODIFIED="1584840949759" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonAdvanced/day06" />
+    <SUITE FILE_PATH="coverage/charging$test.coverage" NAME="test Coverage Results" MODIFIED="1586077716108" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/RFTest/lesson1" />
+    <SUITE FILE_PATH="coverage/Charging$day0.coverage" NAME="day0 Coverage Results" MODIFIED="1584153472894" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonAdvanced" />
+    <SUITE FILE_PATH="coverage/Charging$Unittests_for_deleteTest_Delete.coverage" NAME="Unittests for deleteTest.Delete Coverage Results" MODIFIED="1584196058521" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonAdvanced" />
+    <SUITE FILE_PATH="coverage/Charging$selenium1.coverage" NAME="selenium1 Coverage Results" MODIFIED="1584352960716" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework/pythonTest" />
+    <SUITE FILE_PATH="coverage/Charging$homework_13.coverage" NAME="homework_13 Coverage Results" MODIFIED="1581867285283" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework" />
+    <SUITE FILE_PATH="coverage/Charging$6_.coverage" NAME="6.简单装饰器 Coverage Results" MODIFIED="1584337541098" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonAdvanced/day03" />
+    <SUITE FILE_PATH="coverage/Charging$IO.coverage" NAME="线程处理IO密集型任务 Coverage Results" MODIFIED="1585038482364" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonAdvanced/day04" />
+    <SUITE FILE_PATH="coverage/Charging$mylib__1_.coverage" NAME="mylib (1) Coverage Results" MODIFIED="1585551620020" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/RFTest/lesson3" />
+    <SUITE FILE_PATH="coverage/Charging$courseaction.coverage" NAME="courseaction Coverage Results" MODIFIED="1585720994709" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework/robotTest/homework2" />
+    <SUITE FILE_PATH="coverage/Charging$demo__1_.coverage" NAME="demo (1) Coverage Results" MODIFIED="1582940782344" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/appiumTest/4.MwebTest" />
+    <SUITE FILE_PATH="coverage/Charging$3_setDaemonTest.coverage" NAME="3.setDaemonTest Coverage Results" MODIFIED="1584538828461" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonAdvanced/day04" />
+    <SUITE FILE_PATH="coverage/Charging$t1.coverage" NAME="t1 Coverage Results" MODIFIED="1584597602610" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/interfaceTest" />
     <SUITE FILE_PATH="coverage/Charging$selenium.coverage" NAME="selenium Coverage Results" MODIFIED="1584351118524" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework/pythonTest" />
-    <SUITE FILE_PATH="coverage/Charging$5_ifTest.coverage" NAME="5.ifTest Coverage Results" MODIFIED="1578135265428" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/songqin" />
+    <SUITE FILE_PATH="coverage/Charging$homework_21_appinum.coverage" NAME="homework_21_appinum Coverage Results" MODIFIED="1582720642803" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework" />
+    <SUITE FILE_PATH="coverage/Charging$test4.coverage" NAME="test4 Coverage Results" MODIFIED="1584239943070" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonAdvanced/day02" />
+    <SUITE FILE_PATH="coverage/Charging$baidu_test.coverage" NAME="baidu_test Coverage Results" MODIFIED="1581174057724" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/selenumTest/lesson1" />
     <SUITE FILE_PATH="coverage/Charging$homework_4_format.coverage" NAME="homework_4_format Coverage Results" MODIFIED="1578724113781" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework" />
     <SUITE FILE_PATH="coverage/Charging$copy.coverage" NAME="copy Coverage Results" MODIFIED="1578034624509" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework" />
-    <SUITE FILE_PATH="coverage/Charging$demo_md5.coverage" NAME="demo_md5 Coverage Results" MODIFIED="1585639430299" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/interfaceTest/加密算法" />
-    <SUITE FILE_PATH="coverage/Charging$3_tupleTest.coverage" NAME="3.tupleTest Coverage Results" MODIFIED="1578841342773" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/songqin" />
-    <SUITE FILE_PATH="coverage/Charging$courseaction.coverage" NAME="courseaction Coverage Results" MODIFIED="1585720994709" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework/robotTest/homework2" />
-    <SUITE FILE_PATH="coverage/Charging$13_xunhuanqiantao.coverage" NAME="13.xunhuanqiantao Coverage Results" MODIFIED="1578489384280" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/songqin" />
-    <SUITE FILE_PATH="coverage/Charging$demo_rsa.coverage" NAME="demo_rsa Coverage Results" MODIFIED="1585644873436" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/interfaceTest/加密算法" />
-    <SUITE FILE_PATH="coverage/Charging$baidu_test.coverage" NAME="baidu_test Coverage Results" MODIFIED="1581174057724" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/selenumTest/lesson1" />
-    <SUITE FILE_PATH="coverage/Charging$serviceTest.coverage" NAME="serviceTest Coverage Results" MODIFIED="1584712427941" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonAdvanced/day05" />
-    <SUITE FILE_PATH="coverage/Charging$mylib__1_.coverage" NAME="mylib (1) Coverage Results" MODIFIED="1585551620020" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/RFTest/lesson3" />
-    <SUITE FILE_PATH="coverage/Charging$19_exceptionTest.coverage" NAME="19.exceptionTest Coverage Results" MODIFIED="1580737788035" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/songqin" />
-    <SUITE FILE_PATH="coverage/Charging$homework_7_sort.coverage" NAME="homework_7_sort Coverage Results" MODIFIED="1584349605064" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework/pythonTest" />
-    <SUITE FILE_PATH="coverage/Charging$homework_17_appinum.coverage" NAME="homework_17_appinum Coverage Results" MODIFIED="1582424940388" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework" />
-    <SUITE FILE_PATH="coverage/Charging$1_.coverage" NAME="1.计算机切换 Coverage Results" MODIFIED="1584532046098" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonAdvanced/day04" />
     <SUITE FILE_PATH="coverage/Charging$service.coverage" NAME="service Coverage Results" MODIFIED="1585062608135" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework/pythonAdvance/homework_4_socket" />
-    <SUITE FILE_PATH="coverage/Charging$mylib33.coverage" NAME="mylib33 Coverage Results" MODIFIED="1585552971219" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/RFTest/lesson3" />
-    <SUITE FILE_PATH="coverage/Charging$subprocessTest.coverage" NAME="subprocessTest Coverage Results" MODIFIED="1584326446552" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonAdvanced/day03" />
-    <SUITE FILE_PATH="coverage/Charging$test1.coverage" NAME="test1 Coverage Results" MODIFIED="1584582991787" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/interfaceTest" />
-    <SUITE FILE_PATH="coverage/Charging$test_login.coverage" NAME="test_login Coverage Results" MODIFIED="1583417722235" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/appiumTest/pytest_active" />
-    <SUITE FILE_PATH="coverage/Charging$homework_2_interface_josn.coverage" NAME="homework_2_interface_josn Coverage Results" MODIFIED="1584880406230" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework/interfaceTest" />
-    <SUITE FILE_PATH="coverage/Charging$stringTest.coverage" NAME="stringTest Coverage Results" MODIFIED="1577709966073" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Charging$homework_5_sort.coverage" NAME="homework_5_sort Coverage Results" MODIFIED="1578551353397" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework" />
-    <SUITE FILE_PATH="coverage/Charging$10_whileTest.coverage" NAME="10.whileTest Coverage Results" MODIFIED="1578317321194" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/songqin" />
-    <SUITE FILE_PATH="coverage/Charging$9_formatOut.coverage" NAME="9.formatOut Coverage Results" MODIFIED="1578315635035" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/songqin" />
-    <SUITE FILE_PATH="coverage/Charging$demo.coverage" NAME="demo Coverage Results" MODIFIED="1583247192432" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/appiumTest/2.setup&amp;teardown" />
-    <SUITE FILE_PATH="coverage/Charging$homework_8_dict.coverage" NAME="homework_8_dict Coverage Results" MODIFIED="1584353389926" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework/pythonTest" />
-    <SUITE FILE_PATH="coverage/Charging$tuble.coverage" NAME="tuble Coverage Results" MODIFIED="1577711200656" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Charging$4_bool.coverage" NAME="4.bool Coverage Results" MODIFIED="1577871137370" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/songqin" />
-    <SUITE FILE_PATH="coverage/Charging$copyTest.coverage" NAME="copyTest Coverage Results" MODIFIED="1578037841128" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework" />
-    <SUITE FILE_PATH="coverage/Charging$login__1_.coverage" NAME="login (1) Coverage Results" MODIFIED="1583105398477" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/appiumTest/pytest_active" />
-    <SUITE FILE_PATH="coverage/Charging$1_envireonmentBuild.coverage" NAME="1.envireonmentBuild Coverage Results" MODIFIED="1582296708495" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/appiumTest/lesson1" />
-    <SUITE FILE_PATH="coverage/Charging$18_classTest1.coverage" NAME="18.classTest1 Coverage Results" MODIFIED="1580215073866" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/songqin" />
-    <SUITE FILE_PATH="coverage/Charging$homework_3_threadTest.coverage" NAME="homework_3_threadTest Coverage Results" MODIFIED="1585058616054" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework/pythonAdvance" />
-    <SUITE FILE_PATH="coverage/Charging$homework_1_encodeTest.coverage" NAME="homework_1_encodeTest Coverage Results" MODIFIED="1584841995807" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework/pythonAdvance" />
-    <SUITE FILE_PATH="coverage/Charging$homework_1.coverage" NAME="homework_1 Coverage Results" MODIFIED="1579012902664" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework" />
-    <SUITE FILE_PATH="coverage/Charging$homework_18_appinum.coverage" NAME="homework_18_appinum Coverage Results" MODIFIED="1582561112628" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework" />
-    <SUITE FILE_PATH="coverage/Charging$webdriver.coverage" NAME="webdriver Coverage Results" MODIFIED="1584351094769" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework/pythonTest" />
-    <SUITE FILE_PATH="coverage/Charging$.coverage" NAME="线程处理计算密集型任务 Coverage Results" MODIFIED="1585038540662" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonAdvanced/day04" />
-    <SUITE FILE_PATH="coverage/Charging$Unittests_for_deleteTest_Delete.coverage" NAME="Unittests for deleteTest.Delete Coverage Results" MODIFIED="1584196058521" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonAdvanced" />
-    <SUITE FILE_PATH="coverage/Charging$11_forTest.coverage" NAME="11.forTest Coverage Results" MODIFIED="1578318948050" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/songqin" />
-    <SUITE FILE_PATH="coverage/Charging$homework_19_appinum.coverage" NAME="homework_19_appinum Coverage Results" MODIFIED="1582638451197" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework" />
-    <SUITE FILE_PATH="coverage/Charging$test3.coverage" NAME="test3 Coverage Results" MODIFIED="1584239291753" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonAdvanced/day02" />
-    <SUITE FILE_PATH="coverage/Charging$Unittests_in_4_deleteTest_py.coverage" NAME="Unittests in deleteTest.py Coverage Results" MODIFIED="1584195816693" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonAdvanced" />
-    <SUITE FILE_PATH="coverage/Charging$interviewing.coverage" NAME="interviewing Coverage Results" MODIFIED="1584197428751" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonAdvanced" />
-    <SUITE FILE_PATH="coverage/Charging$3_setDaemonTest.coverage" NAME="3.setDaemonTest Coverage Results" MODIFIED="1584538828461" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonAdvanced/day04" />
-    <SUITE FILE_PATH="coverage/Charging$homework_2_decorator.coverage" NAME="homework_2_decorator Coverage Results" MODIFIED="1584842895752" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework/pythonAdvance" />
-    <SUITE FILE_PATH="coverage/Charging$8_printoutTest.coverage" NAME="8.printoutTest Coverage Results" MODIFIED="1578295393664" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/songqin" />
-    <SUITE FILE_PATH="coverage/Charging$1_threadTest.coverage" NAME="1.threadTest Coverage Results" MODIFIED="1584534515522" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonAdvanced/day04" />
-    <SUITE FILE_PATH="coverage/Charging$homework_20_appinum.coverage" NAME="homework_20_appinum Coverage Results" MODIFIED="1582633895888" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework" />
-    <SUITE FILE_PATH="coverage/Charging$test.coverage" NAME="test Coverage Results" MODIFIED="1585061436043" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework/pythonAdvance/homework_4_socket" />
-    <SUITE FILE_PATH="coverage/Charging$huawei.coverage" NAME="huawei Coverage Results" MODIFIED="1585457026821" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework/robotTest/homework1" />
-    <SUITE FILE_PATH="coverage/Charging$modulesTest3.coverage" NAME="modulesTest3 Coverage Results" MODIFIED="1583206899362" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework" />
-    <SUITE FILE_PATH="coverage/Charging$demo2.coverage" NAME="demo2 Coverage Results" MODIFIED="1582984272304" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/appiumTest/4.MwebTest" />
-    <SUITE FILE_PATH="coverage/Charging$1_connectTest.coverage" NAME="1.connectTest Coverage Results" MODIFIED="1584192713730" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonAdvanced" />
-    <SUITE FILE_PATH="coverage/Charging$12_fileTest.coverage" NAME="12.fileTest Coverage Results" MODIFIED="1580569105203" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/songqin" />
     <SUITE FILE_PATH="coverage/Charging$2_joinTest.coverage" NAME="2.joinTest Coverage Results" MODIFIED="1584534466775" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonAdvanced/day04" />
-    <SUITE FILE_PATH="coverage/Charging$clientTest.coverage" NAME="clientTest Coverage Results" MODIFIED="1584712432561" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonAdvanced/day05" />
-    <SUITE FILE_PATH="coverage/Charging$homework_12.coverage" NAME="homework_12 Coverage Results" MODIFIED="1581863591365" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework" />
-    <SUITE FILE_PATH="coverage/Charging$t1.coverage" NAME="t1 Coverage Results" MODIFIED="1584597602610" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/interfaceTest" />
+    <SUITE FILE_PATH="coverage/Charging$tt.coverage" NAME="tt Coverage Results" MODIFIED="1580184353823" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/songqin" />
+    <SUITE FILE_PATH="coverage/Charging$mylib33.coverage" NAME="mylib33 Coverage Results" MODIFIED="1585552971219" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/RFTest/lesson3" />
+    <SUITE FILE_PATH="coverage/Charging$13_xunhuanqiantao.coverage" NAME="13.xunhuanqiantao Coverage Results" MODIFIED="1578489384280" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/songqin" />
+    <SUITE FILE_PATH="coverage/Charging$1_connectTest.coverage" NAME="1.connectTest Coverage Results" MODIFIED="1584192713730" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonAdvanced" />
+    <SUITE FILE_PATH="coverage/Charging$homework_1_encodeTest.coverage" NAME="homework_1_encodeTest Coverage Results" MODIFIED="1584841995807" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework/pythonAdvance" />
+    <SUITE FILE_PATH="coverage/Charging$homework_8_dict.coverage" NAME="homework_8_dict Coverage Results" MODIFIED="1584353389926" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework/pythonTest" />
+    <SUITE FILE_PATH="coverage/Charging$homework_3_threadTest.coverage" NAME="homework_3_threadTest Coverage Results" MODIFIED="1585058616054" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework/pythonAdvance" />
+    <SUITE FILE_PATH="coverage/Charging$18_classTest1.coverage" NAME="18.classTest1 Coverage Results" MODIFIED="1580215073866" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/songqin" />
+    <SUITE FILE_PATH="coverage/Charging$t2.coverage" NAME="t2 Coverage Results" MODIFIED="1584613574637" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/interfaceTest" />
+    <SUITE FILE_PATH="coverage/Charging$3_tupleTest.coverage" NAME="3.tupleTest Coverage Results" MODIFIED="1578841342773" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/songqin" />
     <SUITE FILE_PATH="coverage/Charging$5_.coverage" NAME="5.闭包 Coverage Results" MODIFIED="1584335914986" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonAdvanced/day03" />
+    <SUITE FILE_PATH="coverage/Charging$webdriver.coverage" NAME="webdriver Coverage Results" MODIFIED="1584351094769" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework/pythonTest" />
+    <SUITE FILE_PATH="coverage/Charging$test5.coverage" NAME="test5 Coverage Results" MODIFIED="1584240408566" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonAdvanced/day02" />
+    <SUITE FILE_PATH="coverage/Charging$test_login.coverage" NAME="test_login Coverage Results" MODIFIED="1583417722235" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/appiumTest/pytest_active" />
+    <SUITE FILE_PATH="coverage/Charging$homework_12.coverage" NAME="homework_12 Coverage Results" MODIFIED="1581863591365" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework" />
+    <SUITE FILE_PATH="coverage/Charging$stringTest.coverage" NAME="stringTest Coverage Results" MODIFIED="1577709966073" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/charging$a.coverage" NAME="a Coverage Results" MODIFIED="1586078344854" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/RFTest/lesson1" />
+    <SUITE FILE_PATH="coverage/Charging$14_sortTest.coverage" NAME="14.sortTest Coverage Results" MODIFIED="1578492393359" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/songqin" />
+    <SUITE FILE_PATH="coverage/Charging$clientTest.coverage" NAME="clientTest Coverage Results" MODIFIED="1584712432561" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonAdvanced/day05" />
+    <SUITE FILE_PATH="coverage/Charging$5_ifTest.coverage" NAME="5.ifTest Coverage Results" MODIFIED="1578135265428" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/songqin" />
+    <SUITE FILE_PATH="coverage/Charging$10_whileTest.coverage" NAME="10.whileTest Coverage Results" MODIFIED="1578317321194" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/songqin" />
+    <SUITE FILE_PATH="coverage/Charging$test2.coverage" NAME="test2 Coverage Results" MODIFIED="1584279791507" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonAdvanced/day02" />
+    <SUITE FILE_PATH="coverage/Charging$tuble.coverage" NAME="tuble Coverage Results" MODIFIED="1577711200656" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Charging$test2__1_.coverage" NAME="test2 (1) Coverage Results" MODIFIED="1583905263084" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test/test1" />
+    <SUITE FILE_PATH="coverage/Charging$homework_1.coverage" NAME="homework_1 Coverage Results" MODIFIED="1579012902664" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework" />
+    <SUITE FILE_PATH="coverage/Charging$2_subprocessTest.coverage" NAME="2.subprocessTest Coverage Results" MODIFIED="1584363609639" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonAdvanced/day03" />
+    <SUITE FILE_PATH="coverage/Charging$homework_17_appinum.coverage" NAME="homework_17_appinum Coverage Results" MODIFIED="1582424940388" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework" />
+    <SUITE FILE_PATH="coverage/Charging$8_printoutTest.coverage" NAME="8.printoutTest Coverage Results" MODIFIED="1578295393664" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/songqin" />
+    <SUITE FILE_PATH="coverage/Charging$9_formatOut.coverage" NAME="9.formatOut Coverage Results" MODIFIED="1578315635035" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/songqin" />
+    <SUITE FILE_PATH="coverage/Charging$Unittests_in_4_deleteTest_py.coverage" NAME="Unittests in deleteTest.py Coverage Results" MODIFIED="1584195816693" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonAdvanced" />
+    <SUITE FILE_PATH="coverage/Charging$homework_2_interface_josn.coverage" NAME="homework_2_interface_josn Coverage Results" MODIFIED="1584880406230" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework/interfaceTest" />
+    <SUITE FILE_PATH="coverage/Charging$mylib.coverage" NAME="mylib Coverage Results" MODIFIED="1585443083596" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/RFTest/lesson2" />
+    <SUITE FILE_PATH="coverage/Charging$demo_md5.coverage" NAME="demo_md5 Coverage Results" MODIFIED="1585639430299" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/interfaceTest/加密算法" />
+    <SUITE FILE_PATH="coverage/Charging$demo_rsa.coverage" NAME="demo_rsa Coverage Results" MODIFIED="1585644873436" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/interfaceTest/加密算法" />
+    <SUITE FILE_PATH="coverage/Charging$homework_15.coverage" NAME="homework_15 Coverage Results" MODIFIED="1582188172160" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework" />
+    <SUITE FILE_PATH="coverage/Charging$client.coverage" NAME="client Coverage Results" MODIFIED="1585062611100" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework/pythonAdvance/homework_4_socket" />
+    <SUITE FILE_PATH="coverage/charging$mylib33.coverage" NAME="mylib33 Coverage Results" MODIFIED="1586167561238" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/RFTest/lesson3" />
+    <SUITE FILE_PATH="coverage/Charging$demo3.coverage" NAME="demo3 Coverage Results" MODIFIED="1582973319462" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/appiumTest/4.MwebTest" />
+    <SUITE FILE_PATH="coverage/Charging$17_classTest.coverage" NAME="17.classTest Coverage Results" MODIFIED="1579271401169" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/songqin" />
+    <SUITE FILE_PATH="coverage/Charging$homework_2_decorator.coverage" NAME="homework_2_decorator Coverage Results" MODIFIED="1584842895752" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework/pythonAdvance" />
+    <SUITE FILE_PATH="coverage/Charging$3_.coverage" NAME="3.作用域 Coverage Results" MODIFIED="1584364944425" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonAdvanced/day03" />
+    <SUITE FILE_PATH="coverage/Charging$19_exceptionTest.coverage" NAME="19.exceptionTest Coverage Results" MODIFIED="1580737788035" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/songqin" />
   </component>
   <component name="DatabaseView">
     <option name="SHOW_INTERMEDIATE" value="true" />
@@ -131,12 +150,60 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/RFTest/lesson1/test.robot">
+        <entry file="file://$PROJECT_DIR$/RFTest/lesson3/s1.robot">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="261">
-              <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+            <state relative-caret-position="319">
+              <caret line="59" column="3" lean-forward="true" selection-start-line="59" selection-start-column="3" selection-end-line="59" selection-end-column="3" />
               <folding>
-                <element signature="e#0#41#0" expanded="true" />
+                <element signature="e#0#93#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/RFTest/lesson3/s2.robot">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="474">
+              <caret line="22" column="25" lean-forward="true" selection-start-line="22" selection-start-column="25" selection-end-line="22" selection-end-column="25" />
+              <folding>
+                <element signature="e#0#209#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/RFTest/lesson3/__init__.robot">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="87">
+              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+              <folding>
+                <element signature="e#0#140#1" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/RFTest/lesson3/s3.robot">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="319">
+              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+              <folding>
+                <element signature="e#0#57#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/RFTest/lesson3/mylib33.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="290">
+              <caret line="12" column="15" lean-forward="true" selection-start-line="12" selection-start-column="15" selection-end-line="12" selection-end-column="15" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -145,10 +212,19 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/homework/robotTest/homework2/t1.robot">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="464">
-              <caret line="16" column="74" selection-start-line="16" selection-start-column="74" selection-end-line="16" selection-end-column="74" />
+            <state relative-caret-position="348">
+              <caret line="12" column="21" lean-forward="true" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/homework/robotTest/homework2/course.robot">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="580">
+              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
               <folding>
-                <element signature="e#0#16#0" expanded="true" />
+                <element signature="e#0#63#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -157,20 +233,11 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/homework/robotTest/homework2/courseaction.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="377">
-              <caret line="14" column="54" selection-start-line="14" selection-start-column="42" selection-end-line="14" selection-end-column="54" />
+            <state relative-caret-position="290">
+              <caret line="19" column="32" lean-forward="true" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
               <folding>
                 <element signature="e#88#118#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/homework/robotTest/homework2/course.robot">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="406">
-              <caret line="15" selection-start-line="15" selection-end-line="15" />
             </state>
           </provider>
         </entry>
@@ -186,18 +253,11 @@
   </component>
   <component name="Git.Settings">
     <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/appiumTest/6.xpathTest/xpath_1.py" />
-        <option value="$PROJECT_DIR$/PythonAdvanced/day04/joinTest.py" />
-        <option value="$PROJECT_DIR$/PythonAdvanced/day04/1.计算机切换.py" />
-        <option value="$PROJECT_DIR$/PythonAdvanced/day04/守护线程.py" />
-        <option value="$PROJECT_DIR$/PythonAdvanced/day04/2.joinTest.py" />
-        <option value="$PROJECT_DIR$/PythonAdvanced/day04/线程处理计算密集型任务.py" />
-        <option value="$PROJECT_DIR$/PythonAdvanced/day04/1.threadTest.py" />
-        <option value="$PROJECT_DIR$/PythonAdvanced/day04/3.setDaemonTest.py" />
         <option value="$PROJECT_DIR$/PythonAdvanced/day04/不安全的并发.py" />
         <option value="$PROJECT_DIR$/interfaceTest/test1.py" />
         <option value="$PROJECT_DIR$/interfaceTest/t1.py" />
@@ -222,33 +282,41 @@
         <option value="$PROJECT_DIR$/RFTest/lesson2/t1.robot" />
         <option value="$PROJECT_DIR$/RFTest/lesson2/t1.py" />
         <option value="$PROJECT_DIR$/RFTest/lesson2/tt.py" />
-        <option value="$PROJECT_DIR$/RFTest/lesson2/first.robot" />
         <option value="$PROJECT_DIR$/RFTest/lesson2/second.robot.py" />
-        <option value="$PROJECT_DIR$/RFTest/lesson2/mylib.py" />
-        <option value="$PROJECT_DIR$/RFTest/lesson2/second.robot" />
         <option value="$PROJECT_DIR$/homework/robotTest/homework1/request.py" />
         <option value="$PROJECT_DIR$/homework/robotTest/homework1/requestTest.py" />
         <option value="$PROJECT_DIR$/homework/robotTest/homework1/course_mgr.py" />
         <option value="$PROJECT_DIR$/homework/robotTest/homework1/huawei.py" />
         <option value="$PROJECT_DIR$/homework/robotTest/homework1/rfTest.robot" />
-        <option value="$PROJECT_DIR$/RFTest/lesson3/s1.robot" />
         <option value="$PROJECT_DIR$/interfaceTest/加密算法/demo_md5.py" />
         <option value="$PROJECT_DIR$/interfaceTest/加密算法/demo_rsa.py" />
         <option value="$PROJECT_DIR$/interfaceTest/加密算法/demo_base64.py" />
-        <option value="$PROJECT_DIR$/RFTest/lesson3/s2.robot" />
-        <option value="$PROJECT_DIR$/RFTest/lesson1/test.robot" />
         <option value="$PROJECT_DIR$/homework/robotTest/homework2/t1.robot" />
         <option value="$PROJECT_DIR$/homework/robotTest/homework2/st.py" />
         <option value="$PROJECT_DIR$/homework/robotTest/homework2/courseaction.py" />
+        <option value="$PROJECT_DIR$/RFTest/lesson1/test.robot" />
+        <option value="$PROJECT_DIR$/RFTest/lesson1/t1.py" />
+        <option value="$PROJECT_DIR$/RFTest/lesson1/test.py" />
+        <option value="$PROJECT_DIR$/RFTest/lesson1/tt1.py" />
+        <option value="$PROJECT_DIR$/RFTest/lesson1/a.py" />
+        <option value="$PROJECT_DIR$/RFTest/lesson2/mylib.py" />
+        <option value="$PROJECT_DIR$/RFTest/lesson2/first.robot" />
+        <option value="$PROJECT_DIR$/RFTest/lesson2/second.robot" />
+        <option value="$PROJECT_DIR$/RFTest/lesson1/t1.robot" />
+        <option value="$PROJECT_DIR$/RFTest/lesson3/r1.robot" />
+        <option value="$PROJECT_DIR$/RFTest/lesson3/__init__.robot" />
+        <option value="$PROJECT_DIR$/RFTest/lesson3/s2.robot" />
+        <option value="$PROJECT_DIR$/RFTest/lesson3/s3.robot" />
         <option value="$PROJECT_DIR$/homework/robotTest/homework2/course.robot" />
+        <option value="$PROJECT_DIR$/RFTest/lesson3/s1.robot" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="200" />
-    <option name="y" value="20" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="425" />
+    <option name="y" value="17" />
     <option name="width" value="1465" />
-    <option name="height" value="1105" />
+    <option name="height" value="1103" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -263,37 +331,30 @@
         <subPane>
           <expand>
             <path>
-              <item name="Charging" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Charging" type="462c0819:PsiDirectoryNode" />
+              <item name="charging" type="b2602c69:ProjectViewProjectNode" />
+              <item name="charging" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Charging" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Charging" type="462c0819:PsiDirectoryNode" />
+              <item name="charging" type="b2602c69:ProjectViewProjectNode" />
+              <item name="charging" type="462c0819:PsiDirectoryNode" />
               <item name="homework" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Charging" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Charging" type="462c0819:PsiDirectoryNode" />
-              <item name="homework" type="462c0819:PsiDirectoryNode" />
-              <item name="robotTest" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Charging" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Charging" type="462c0819:PsiDirectoryNode" />
+              <item name="charging" type="b2602c69:ProjectViewProjectNode" />
+              <item name="charging" type="462c0819:PsiDirectoryNode" />
               <item name="homework" type="462c0819:PsiDirectoryNode" />
               <item name="robotTest" type="462c0819:PsiDirectoryNode" />
-              <item name="homework2" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Charging" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Charging" type="462c0819:PsiDirectoryNode" />
+              <item name="charging" type="b2602c69:ProjectViewProjectNode" />
+              <item name="charging" type="462c0819:PsiDirectoryNode" />
               <item name="RFTest" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Charging" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Charging" type="462c0819:PsiDirectoryNode" />
+              <item name="charging" type="b2602c69:ProjectViewProjectNode" />
+              <item name="charging" type="462c0819:PsiDirectoryNode" />
               <item name="RFTest" type="462c0819:PsiDirectoryNode" />
-              <item name="lesson4" type="462c0819:PsiDirectoryNode" />
+              <item name="lesson3" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -307,7 +368,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -317,16 +378,16 @@
     </option>
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\Tools\PythonProjects\Charging\RFTest\lesson3" />
-      <recent name="D:\Tools\PythonProjects\Charging\appiumTest\pytest_active" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Tools\PycharmProjects\charging\RFTest\lesson3" />
+      <recent name="D:\Tools\PycharmProjects\charging\RFTest\lesson3\suit" />
       <recent name="D:\Tools\PythonProjects\Charging\RFTest\lesson3" />
       <recent name="D:\Tools\PythonProjects\Charging\homework\pythonAdvance\homework_4_socket" />
       <recent name="D:\Tools\PythonProjects\Charging\appiumTest\5.yamlTest" />
-      <recent name="D:\Tools\PythonProjects\Charging\homework\pythonAdvance" />
-      <recent name="D:\Tools\PythonProjects\Charging\PythonAdvanced\day02" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Tools\PythonProjects\Charging\RFTest\lesson3" />
+      <recent name="D:\Tools\PythonProjects\Charging\appiumTest\pytest_active" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -341,7 +402,51 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.courseaction">
+  <component name="RunManager" selected="Python.mylib33">
+    <configuration name="Unnamed" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Charging" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="a" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Charging" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/RFTest/lesson1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/RFTest/lesson1/a.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="courseaction" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Charging" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -386,50 +491,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="demo_md5" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Charging" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/interfaceTest/加密算法" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/interfaceTest/加密算法/demo_md5.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="demo_rsa" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Charging" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/interfaceTest/加密算法" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/interfaceTest/加密算法/demo_rsa.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="mylib33" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Charging" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -452,20 +513,43 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Charging" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/RFTest/lesson1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="D:\Tools\PycharmProjects\charging\RFTest\lesson1\ttt.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
-      <item itemvalue="Python.mylib33" />
-      <item itemvalue="Python.demo_md5" />
-      <item itemvalue="Python.demo_rsa" />
+      <item itemvalue="Python.Unnamed" />
       <item itemvalue="Python.demo_base64" />
       <item itemvalue="Python.courseaction" />
+      <item itemvalue="Python.test" />
+      <item itemvalue="Python.a" />
+      <item itemvalue="Python.mylib33" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.mylib33" />
+        <item itemvalue="Python.a" />
+        <item itemvalue="Python.test" />
         <item itemvalue="Python.courseaction" />
         <item itemvalue="Python.demo_base64" />
-        <item itemvalue="Python.demo_rsa" />
-        <item itemvalue="Python.demo_md5" />
-        <item itemvalue="Python.mylib33" />
       </list>
     </recent_temporary>
   </component>
@@ -599,6 +683,10 @@
       <workItem from="1585712297915" duration="6178000" />
       <workItem from="1585996129052" duration="1220000" />
       <workItem from="1586069450778" duration="592000" />
+      <workItem from="1586073650737" duration="656000" />
+      <workItem from="1586075030279" duration="260000" />
+      <workItem from="1586075322091" duration="5833000" />
+      <workItem from="1586155515816" duration="12624000" />
     </task>
     <servers />
   </component>
@@ -635,7 +723,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="567190000" />
+    <option name="totallyTimeSpent" value="586563000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -647,25 +735,24 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
-    <editor active="true" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
       <window_info id="Favorites" order="0" sideWeight="0.50701404" side_tool="true" weight="0.13739946" />
-      <window_info content_ui="combo" x="634" y="171" width="268" height="481" id="Project" order="1" sideWeight="0.49298596" visible="true" weight="0.23123324" />
+      <window_info content_ui="combo" x="634" y="171" width="268" height="481" id="Project" order="1" sideWeight="0.49298596" visible="true" weight="0.1816354" />
       <window_info anchor="bottom" id="Concurrent Activities Diagram" order="0" sideWeight="0.49932975" weight="0.32956153" />
       <window_info anchor="bottom" id="Database Changes" order="1" />
-      <window_info anchor="bottom" id="Terminal" order="2" sideWeight="0.49932975" weight="0.43281472" />
+      <window_info anchor="bottom" id="Terminal" order="2" sideWeight="0.49932975" weight="0.43201134" />
       <window_info anchor="bottom" id="Event Log" order="3" sideWeight="0.50067025" side_tool="true" weight="0.23196605" />
-      <window_info anchor="bottom" id="Version Control" order="4" />
-      <window_info anchor="bottom" id="Python Console" order="5" sideWeight="0.49932975" weight="0.31683168" />
+      <window_info anchor="bottom" id="Version Control" order="4" weight="0.3286119" />
+      <window_info anchor="bottom" id="Python Console" order="5" sideWeight="0.49932975" weight="0.31586403" />
       <window_info anchor="bottom" id="Docker" order="6" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="7" />
       <window_info anchor="bottom" id="Find" order="8" weight="0.3182461" />
-      <window_info anchor="bottom" id="Run" order="9" sideWeight="0.49932975" weight="0.42998585" />
+      <window_info anchor="bottom" id="Run" order="9" sideWeight="0.49932975" weight="0.2733711" />
       <window_info anchor="bottom" id="Debug" order="10" weight="0.5813296" />
       <window_info anchor="bottom" id="Cvs" order="11" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="12" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="13" weight="0.32956153" />
+      <window_info anchor="bottom" id="TODO" order="13" weight="0.3286119" />
       <window_info anchor="right" id="Structure" order="0" sideWeight="0.5049505" weight="0.26943943" />
       <window_info anchor="right" id="Database" order="1" weight="0.3297587" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="2" type="SLIDING" weight="0.4" />
@@ -715,66 +802,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/homework/pythonAdvance/newName.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/homework/pythonAdvance/homework_1_encodeTest.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="290">
-          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/homework/pythonAdvance/homework_2_decorator.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="219">
-          <caret line="52" column="22" lean-forward="true" selection-start-line="52" selection-start-column="22" selection-end-line="52" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/RFTest/lesson1.py" />
-    <entry file="file://$PROJECT_DIR$/RFTest/lesson1/test.robot.py" />
-    <entry file="file://$PROJECT_DIR$/RFTest/lesson1/report.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="n#style#0;n#div#0;n#div#0;n#td#4;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#div#0;n#td#4;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/homework/pythonTest/homework_3_func.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="259">
-          <caret line="26" column="15" selection-start-line="26" selection-start-column="15" selection-end-line="26" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PythonAdvanced/day06/t1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="16" column="22" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
-          <folding>
-            <element signature="e#89#104#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PythonAdvanced/day04/线程处理IO密集型任务.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="870">
-          <caret line="31" column="22" selection-start-line="31" selection-start-column="22" selection-end-line="31" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PythonAdvanced/day04/2.joinTest.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="638">
-          <caret line="22" column="9" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/PythonAdvanced/day02/test1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="203">
@@ -852,23 +879,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/RFTest/lesson2/tt.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="174">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/RFTest/lesson2/second.robot.py" />
     <entry file="file://$PROJECT_DIR$/RFTest/lesson2/log.html">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/RFTest/lesson2/mylib.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="158">
-          <caret line="39" column="17" selection-start-line="39" selection-start-column="13" selection-end-line="39" selection-end-column="17" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/homework/robotTest/homework1/log.html">
       <provider selected="true" editor-type-id="text-editor" />
@@ -880,13 +893,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../Python/Python36/Lib/site-packages/selenium/webdriver/common/by.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="203">
-          <caret line="31" column="17" lean-forward="true" selection-start-line="31" selection-start-column="17" selection-end-line="31" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/../../Python/Python36/Lib/site-packages/selenium/webdriver/common/by.py" />
     <entry file="file://$PROJECT_DIR$/homework/robotTest/homework1/rfTest.robot">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="145">
@@ -939,36 +946,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/RFTest/lesson3/s4.robot" />
-    <entry file="file://$PROJECT_DIR$/RFTest/lesson2/second.robot">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="145">
-          <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
-          <folding>
-            <element signature="e#0#56#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/RFTest/lesson3/mylib33.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="58">
-          <caret line="4" column="21" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/RFTest/lesson2/first.robot">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="406">
-          <caret line="16" column="40" selection-start-line="16" selection-start-column="40" selection-end-line="16" selection-end-column="40" />
-          <folding>
-            <element signature="e#0#56#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/interfaceTest/加密算法/demo_md5.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="348">
@@ -987,20 +964,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="406">
           <caret line="14" column="28" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/RFTest/lesson3/s1.robot">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="20" column="15" selection-start-line="20" selection-start-column="15" selection-end-line="20" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/RFTest/lesson3/s2.robot">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="377">
-          <caret line="16" column="43" selection-start-line="16" selection-start-column="43" selection-end-line="16" selection-end-column="43" />
         </state>
       </provider>
     </entry>
@@ -1028,37 +991,127 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/RFTest/lesson3/s3.robot">
+    <entry file="file://$PROJECT_DIR$/RFTest/lesson1/t1.py" />
+    <entry file="file://$PROJECT_DIR$/../../Python382/Lib/site-packages/robot/libraries/BuiltIn.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="232">
-          <caret line="9" column="44" selection-start-line="9" selection-start-column="44" selection-end-line="9" selection-end-column="44" />
+        <state relative-caret-position="4952">
+          <caret line="2741" column="52" lean-forward="true" selection-start-line="2741" selection-start-column="52" selection-end-line="2741" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RFTest/lesson1/report.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RFTest/lesson1/ttt.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="5" column="15" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RFTest/lesson2/tt.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../Python382/Lib/site-packages/SeleniumLibrary/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="49" column="6" selection-start-line="49" selection-start-column="6" selection-end-line="49" selection-end-column="6" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/RFTest/lesson1/test.robot">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="261">
-          <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+        <state relative-caret-position="290">
+          <caret line="11" column="3" lean-forward="true" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RFTest/lesson2/first.robot">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="97">
+          <caret line="12" column="29" lean-forward="true" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
           <folding>
-            <element signature="e#0#41#0" expanded="true" />
+            <element signature="e#0#56#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RFTest/lesson2/mylib.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="30" column="31" lean-forward="true" selection-start-line="30" selection-start-column="31" selection-end-line="30" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/appiumTest/1.envireonment/1.envireonmentBuild.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RFTest/lesson1/t1.robot">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="348">
+          <caret line="12" column="34" lean-forward="true" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
+          <folding>
+            <element signature="e#0#54#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RFTest/lesson2/second.robot">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="638">
+          <caret line="22" column="26" lean-forward="true" selection-start-line="22" selection-start-column="26" selection-end-line="22" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#56#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RFTest/lesson1/a.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RFTest/lesson3/r1.robot">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="9" column="35" lean-forward="true" selection-start-line="9" selection-end-line="9" selection-end-column="74" />
+          <folding>
+            <element signature="e#0#75#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RFTest/lesson3/__init__.robot">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="87">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+          <folding>
+            <element signature="e#0#140#1" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/homework/robotTest/homework2/t1.robot">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="464">
-          <caret line="16" column="74" selection-start-line="16" selection-start-column="74" selection-end-line="16" selection-end-column="74" />
-          <folding>
-            <element signature="e#0#16#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="348">
+          <caret line="12" column="21" lean-forward="true" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/homework/robotTest/homework2/courseaction.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="377">
-          <caret line="14" column="54" selection-start-line="14" selection-start-column="42" selection-end-line="14" selection-end-column="54" />
+        <state relative-caret-position="290">
+          <caret line="19" column="32" lean-forward="true" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
           <folding>
             <element signature="e#88#118#0" expanded="true" />
           </folding>
@@ -1067,8 +1120,51 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/homework/robotTest/homework2/course.robot">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="406">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        <state relative-caret-position="580">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+          <folding>
+            <element signature="e#0#63#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RFTest/lesson3/s3.robot">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="319">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="e#0#57#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RFTest/lesson3/s2.robot">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="474">
+          <caret line="22" column="25" lean-forward="true" selection-start-line="22" selection-start-column="25" selection-end-line="22" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#209#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RFTest/lesson3/s1.robot">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="319">
+          <caret line="59" column="3" lean-forward="true" selection-start-line="59" selection-start-column="3" selection-end-line="59" selection-end-column="3" />
+          <folding>
+            <element signature="e#0#93#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RFTest/lesson3/mylib33.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="12" column="15" lean-forward="true" selection-start-line="12" selection-start-column="15" selection-end-line="12" selection-end-column="15" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

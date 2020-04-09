@@ -18,7 +18,7 @@ Library  mylib
     printargs  @{dict}
 #    printargs  @{dict}[key1]  #不需要加引号
 循环
-    [Documentation]  新语法
+    [Documentation]  新语法  FOR  END 必须大写
     ${list}   create list  a  b  c  d
     FOR  ${i}  In  @{list}
         log to console  ${i}
@@ -26,10 +26,12 @@ Library  mylib
     END
     log to console  循环出结果
 
-#    for range
+#    for range：In RANGE是一个整体，所以空一个空格
     FOR  ${one}  In RANGE  10
         log to console  ${one}
     END
+
+
 
 
 

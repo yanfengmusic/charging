@@ -1,6 +1,6 @@
 *** Settings ***
 Library  mylib4
-
+Library  SeleniumLibrary
 *** Test Cases ***
 测试1
     ${html}=    getwebinfo
