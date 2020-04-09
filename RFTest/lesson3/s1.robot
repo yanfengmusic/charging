@@ -60,7 +60,11 @@ Library  Collections   #操作列表的包
 测试5
     ${dict1}   create dictionary  a=1  b=3  c=2
     set to dictionary  ${dict1}   e = 4  f=5
+<<<<<<< HEAD
     evaluate   $dict['a'] = 2020   #evaluate不能使用赋值操作，因为他本身就是调用的eval(),eval就不支持赋值操作的
+=======
+    evaluate   $dict['a'] = 2020  #使用evaluate时，他调用的是eval,本身就是不能被赋值的东西
+>>>>>>> 138f8b7a9108e44b203fde456990b5c6084ea1ef
     log to console   ${dict1}
 
 

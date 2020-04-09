@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot generator="Robot 3.1.2 (Python 3.6.0 on win32)" generated="20200409 14:44:38.189" rpa="false">
+<suite id="s1" name="Course" source="D:\Tools\PythonProjects\Charging\homework\robotTest\homework2\course.robot">
+<test id="s1-t1" name="case1">
+<kw name="Delete All Course" library="courseaction" type="setup">
+<msg timestamp="20200409 14:44:54.517" level="INFO">1
+0
+删除完毕</msg>
+<status status="PASS" starttime="20200409 14:44:38.368" endtime="20200409 14:44:54.517"></status>
+</kw>
+<kw name="Open Browser" library="SeleniumLibrary">
+<doc>Opens a new browser instance to the optional ``url``.</doc>
+<arguments>
+<arg>http://localhost:90/mgr/login/login.html</arg>
+<arg>chrome</arg>
+</arguments>
+<msg timestamp="20200409 14:44:54.518" level="INFO">Opening browser 'chrome' to base url 'http://localhost:90/mgr/login/login.html'.</msg>
+<status status="PASS" starttime="20200409 14:44:54.518" endtime="20200409 14:45:00.600"></status>
+</kw>
+<kw name="Set Selenium Implicit Wait" library="SeleniumLibrary">
+<doc>Sets the implicit wait value used by Selenium.</doc>
+<arguments>
+<arg>10</arg>
+</arguments>
+<status status="PASS" starttime="20200409 14:45:00.600" endtime="20200409 14:45:00.602"></status>
+</kw>
+<kw name="Input Text" library="SeleniumLibrary">
+<doc>Types the given ``text`` into the text field identified by ``locator``.</doc>
+<arguments>
+<arg>id=username</arg>
+<arg>auto</arg>
+</arguments>
+<msg timestamp="20200409 14:45:00.604" level="INFO">Typing text 'auto' into text field 'id=username'.</msg>
+<status status="PASS" starttime="20200409 14:45:00.603" endtime="20200409 14:45:00.739"></status>
+</kw>
+<kw name="Input Text" library="SeleniumLibrary">
+<doc>Types the given ``text`` into the text field identified by ``locator``.</doc>
+<arguments>
+<arg>id=password</arg>
+<arg>sdfsdfsdf</arg>
+</arguments>
+<msg timestamp="20200409 14:45:00.739" level="INFO">Typing text 'sdfsdfsdf' into text field 'id=password'.</msg>
+<status status="PASS" starttime="20200409 14:45:00.739" endtime="20200409 14:45:00.845"></status>
+</kw>
+<kw name="Click Element" library="SeleniumLibrary">
+<doc>Click the element identified by ``locator``.</doc>
+<arguments>
+<arg>css = .btn-success</arg>
+</arguments>
+<msg timestamp="20200409 14:45:00.846" level="INFO">Clicking element 'css = .btn-success'.</msg>
+<status status="PASS" starttime="20200409 14:45:00.846" endtime="20200409 14:45:00.911"></status>
+</kw>
+<kw name="Click Element" library="SeleniumLibrary">
+<doc>Click the element identified by ``locator``.</doc>
+<arguments>
+<arg>css = [ng-click="showAddOne=true"]</arg>
+</arguments>
+<msg timestamp="20200409 14:45:00.912" level="INFO">Clicking element 'css = [ng-click="showAddOne=true"]'.</msg>
+<status status="PASS" starttime="20200409 14:45:00.911" endtime="20200409 14:45:01.807"></status>
+</kw>
+<kw name="Input Text" library="SeleniumLibrary">
+<doc>Types the given ``text`` into the text field identified by ``locator``.</doc>
+<arguments>
+<arg>css = [ng-model="addData.name"]</arg>
+<arg>课程1</arg>
+</arguments>
+<msg timestamp="20200409 14:45:01.807" level="INFO">Typing text '课程1' into text field 'css = [ng-model="addData.name"]'.</msg>
+<status status="PASS" starttime="20200409 14:45:01.807" endtime="20200409 14:45:01.908"></status>
+</kw>
+<kw name="Input Text" library="SeleniumLibrary">
+<doc>Types the given ``text`` into the text field identified by ``locator``.</doc>
+<arguments>
+<arg>css = [ng-model="addData.desc"]</arg>
+<arg>课程描述</arg>
+</arguments>
+<msg timestamp="20200409 14:45:01.908" level="INFO">Typing text '课程描述' into text field 'css = [ng-model="addData.desc"]'.</msg>
+<status status="PASS" starttime="20200409 14:45:01.908" endtime="20200409 14:45:01.986"></status>
+</kw>
+<kw name="Input Text" library="SeleniumLibrary">
+<doc>Types the given ``text`` into the text field identified by ``locator``.</doc>
+<arguments>
+<arg>css = [ng-model="addData.display_idx"]</arg>
+<arg>1</arg>
+</arguments>
+<msg timestamp="20200409 14:45:01.987" level="INFO">Typing text '1' into text field 'css = [ng-model="addData.display_idx"]'.</msg>
+<status status="PASS" starttime="20200409 14:45:01.987" endtime="20200409 14:45:02.073"></status>
+</kw>
+<kw name="Click Element" library="SeleniumLibrary">
+<doc>Click the element identified by ``locator``.</doc>
+<arguments>
+<arg>css = [ng-click="addOne()"]</arg>
+</arguments>
+<msg timestamp="20200409 14:45:02.073" level="INFO">Clicking element 'css = [ng-click="addOne()"]'.</msg>
+<status status="PASS" starttime="20200409 14:45:02.073" endtime="20200409 14:45:02.121"></status>
+</kw>
+<kw name="Sleep" library="BuiltIn">
+<doc>Pauses the test executed for the given time.</doc>
+<arguments>
+<arg>2</arg>
+</arguments>
+<msg timestamp="20200409 14:45:04.123" level="INFO">Slept 2 seconds</msg>
+<status status="PASS" starttime="20200409 14:45:02.122" endtime="20200409 14:45:04.123"></status>
+</kw>
+<kw name="Get WebElements" library="SeleniumLibrary">
+<doc>Returns a list of WebElement objects matching the ``locator``.</doc>
+<arguments>
+<arg>css = tbody td:nth-child(2)</arg>
+</arguments>
+<assign>
+<var>${eles}</var>
+</assign>
+<msg timestamp="20200409 14:45:04.166" level="INFO">${eles} = [&lt;selenium.webdriver.remote.webelement.WebElement (session="91199b30542159db13d6e22433c396bb", element="abcba32a-e1bd-4b2f-bdd2-74a326b7df56")&gt;]</msg>
+<status status="PASS" starttime="20200409 14:45:04.125" endtime="20200409 14:45:04.166"></status>
+</kw>
+<kw name="Evaluate" library="BuiltIn">
+<doc>Evaluates the given expression in Python and returns the results.</doc>
+<arguments>
+<arg>[eles.text</arg>
+<arg>for ele in</arg>
+<arg>$eles]</arg>
+</arguments>
+<assign>
+<var>${courses}</var>
+</assign>
+<msg timestamp="20200409 14:45:04.168" level="FAIL">ValueError: dictionary update sequence element #0 has length 1; 2 is required</msg>
+<status status="FAIL" starttime="20200409 14:45:04.167" endtime="20200409 14:45:04.168"></status>
+</kw>
+<status status="FAIL" starttime="20200409 14:44:38.365" endtime="20200409 14:45:04.169" critical="yes">ValueError: dictionary update sequence element #0 has length 1; 2 is required</status>
+</test>
+<status status="FAIL" starttime="20200409 14:44:38.191" endtime="20200409 14:45:04.171"></status>
+</suite>
+<statistics>
+<total>
+<stat pass="0" fail="1">Critical Tests</stat>
+<stat pass="0" fail="1">All Tests</stat>
+</total>
+<tag>
+</tag>
+<suite>
+<stat pass="0" fail="1" id="s1" name="Course">Course</stat>
+</suite>
+</statistics>
+<errors>
+</errors>
+</robot>
