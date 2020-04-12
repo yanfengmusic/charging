@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7b2d2920-b909-42f2-88a0-7002a8430bae" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/homework/robotTest/homework3/courseaction.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RFTest/lesson3/s1.robot" beforeDir="false" afterPath="$PROJECT_DIR$/RFTest/lesson3/s1.robot" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework/robotTest/homework2/course.robot" beforeDir="false" afterPath="$PROJECT_DIR$/homework/robotTest/homework2/course.robot" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework/robotTest/homework2/courseaction.py" beforeDir="false" afterPath="$PROJECT_DIR$/homework/robotTest/homework2/courseaction.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework/robotTest/homework3/course1.robot" beforeDir="false" afterPath="$PROJECT_DIR$/homework/robotTest/homework3/course1.robot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework/robotTest/homework3/rc.robot" beforeDir="false" afterPath="$PROJECT_DIR$/homework/robotTest/homework3/rc.robot" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -76,7 +73,7 @@
     <SUITE FILE_PATH="coverage/Charging$service.coverage" NAME="service Coverage Results" MODIFIED="1585062608135" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework/pythonAdvance/homework_4_socket" />
     <SUITE FILE_PATH="coverage/Charging$mylib33.coverage" NAME="mylib33 Coverage Results" MODIFIED="1585552971219" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/RFTest/lesson3" />
     <SUITE FILE_PATH="coverage/Charging$subprocessTest.coverage" NAME="subprocessTest Coverage Results" MODIFIED="1584326446552" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonAdvanced/day03" />
-    <SUITE FILE_PATH="coverage/Charging$test1.coverage" NAME="test1 Coverage Results" MODIFIED="1584582991787" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/interfaceTest" />
+    <SUITE FILE_PATH="coverage/Charging$test1.coverage" NAME="test1 Coverage Results" MODIFIED="1586509647006" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonAdvanced/day02" />
     <SUITE FILE_PATH="coverage/Charging$test_login.coverage" NAME="test_login Coverage Results" MODIFIED="1583417722235" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/appiumTest/pytest_active" />
     <SUITE FILE_PATH="coverage/Charging$homework_2_interface_josn.coverage" NAME="homework_2_interface_josn Coverage Results" MODIFIED="1584880406230" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework/interfaceTest" />
     <SUITE FILE_PATH="coverage/Charging$stringTest.coverage" NAME="stringTest Coverage Results" MODIFIED="1577709966073" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -140,31 +137,91 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/homework/robotTest/homework3/courseaction.py">
+        <entry file="file://$PROJECT_DIR$/PythonAdvanced/day02/test1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="234">
-              <caret line="36" column="17" lean-forward="true" selection-start-line="16" selection-start-column="4" selection-end-line="36" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/homework/robotTest/homework3/course1.robot">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="358">
-              <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
-              <folding>
-                <element signature="e#0#106#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="203">
+              <caret line="7" column="11" lean-forward="true" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/homework/robotTest/homework3/rc.robot">
+        <entry file="file://$PROJECT_DIR$/PythonAdvanced/day02/test2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="258">
-              <caret line="35" column="17" lean-forward="true" selection-start-line="35" selection-start-column="17" selection-end-line="35" selection-end-column="17" />
+            <state relative-caret-position="522">
+              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PythonAdvanced/day02/test3.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="145">
+              <caret line="14" column="32" lean-forward="true" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PythonAdvanced/day02/test4.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="145">
+              <caret line="11" column="38" lean-forward="true" selection-start-line="11" selection-start-column="38" selection-end-line="11" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PythonAdvanced/day01/1.connectTest.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-348">
+              <caret line="9" column="8" lean-forward="true" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PythonAdvanced/day01/2.listTest.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1694">
+              <caret line="9" column="100" lean-forward="true" selection-start-line="9" selection-start-column="100" selection-end-line="9" selection-end-column="100" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PythonAdvanced/day01/deleteTest.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="261">
+              <caret line="10" column="16" lean-forward="true" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PythonAdvanced/day01/interviewing.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="232">
+              <caret line="21" column="19" lean-forward="true" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PythonAdvanced/day01/test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="261">
+              <caret line="8" column="20" lean-forward="true" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/PythonAdvanced/day02/test5.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="421">
+              <caret line="16" column="39" lean-forward="true" selection-start-line="16" selection-start-column="39" selection-end-line="16" selection-end-column="39" />
             </state>
           </provider>
         </entry>
@@ -185,9 +242,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/interfaceTest/t1.py" />
-        <option value="$PROJECT_DIR$/interfaceTest/t2.py" />
-        <option value="$PROJECT_DIR$/PythonAdvanced/day05/clientTest.py" />
         <option value="$PROJECT_DIR$/PythonAdvanced/day05/serviceTest.py" />
         <option value="$PROJECT_DIR$/PythonAdvanced/day05/nostop/t1.py" />
         <option value="$PROJECT_DIR$/PythonAdvanced/day06/t1.py" />
@@ -234,16 +288,19 @@
         <option value="$PROJECT_DIR$/RFTest/lesson4/homework2/course1.robot" />
         <option value="$PROJECT_DIR$/RFTest/lesson4/homework2/course2_ddt.robot" />
         <option value="$PROJECT_DIR$/RFTest/lesson4/rc.robot" />
+        <option value="$PROJECT_DIR$/homework/robotTest/homework3/courseaction.py" />
         <option value="$PROJECT_DIR$/homework/robotTest/homework3/course1.robot" />
+        <option value="$PROJECT_DIR$/homework/robotTest/homework3/cfg.py" />
         <option value="$PROJECT_DIR$/homework/robotTest/homework3/rc.robot" />
+        <option value="$PROJECT_DIR$/PythonAdvanced/day02/test2.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="200" />
-    <option name="y" value="20" />
-    <option name="width" value="1465" />
-    <option name="height" value="1105" />
+    <option name="x" value="665" />
+    <option name="y" value="26" />
+    <option name="width" value="1299" />
+    <option name="height" value="888" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -254,7 +311,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -262,15 +318,21 @@
               <item name="Charging" type="b2602c69:ProjectViewProjectNode" />
               <item name="Charging" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Charging" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Charging" type="462c0819:PsiDirectoryNode" />
+              <item name="PythonAdvanced" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../InterfaceAutoTest" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../web_pro" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
@@ -310,7 +372,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.courseaction">
+  <component name="RunManager" selected="Python.test1">
     <configuration name="courseaction" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Charging" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -399,7 +461,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="mylib33" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="test1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Charging" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -407,12 +469,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/RFTest/lesson3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PythonAdvanced/day02" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/RFTest/lesson3/mylib33.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonAdvanced/day02/test1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -422,19 +484,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.mylib33" />
       <item itemvalue="Python.demo_md5" />
       <item itemvalue="Python.demo_rsa" />
       <item itemvalue="Python.demo_base64" />
       <item itemvalue="Python.courseaction" />
+      <item itemvalue="Python.test1" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.test1" />
         <item itemvalue="Python.courseaction" />
         <item itemvalue="Python.demo_base64" />
         <item itemvalue="Python.demo_rsa" />
         <item itemvalue="Python.demo_md5" />
-        <item itemvalue="Python.mylib33" />
       </list>
     </recent_temporary>
   </component>
@@ -570,6 +632,7 @@
       <workItem from="1586069450778" duration="592000" />
       <workItem from="1586221838420" duration="3847000" />
       <workItem from="1586401530985" duration="15951000" />
+      <workItem from="1586484748116" duration="14487000" />
     </task>
     <servers />
   </component>
@@ -606,7 +669,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="586988000" />
+    <option name="totallyTimeSpent" value="601475000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -621,12 +684,12 @@
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
       <window_info id="Favorites" order="0" sideWeight="0.50701404" side_tool="true" weight="0.13739946" />
-      <window_info active="true" content_ui="combo" x="634" y="171" width="268" height="481" id="Project" order="1" sideWeight="0.49298596" visible="true" weight="0.20911528" />
+      <window_info active="true" content_ui="combo" x="634" y="171" width="268" height="481" id="Project" order="1" sideWeight="0.49298596" visible="true" weight="0.21179625" />
       <window_info anchor="bottom" id="Concurrent Activities Diagram" order="0" sideWeight="0.49932975" weight="0.32956153" />
       <window_info anchor="bottom" id="Database Changes" order="1" />
       <window_info anchor="bottom" id="Terminal" order="2" sideWeight="0.49932975" weight="0.43281472" />
       <window_info anchor="bottom" id="Event Log" order="3" sideWeight="0.50067025" side_tool="true" weight="0.23196605" />
-      <window_info anchor="bottom" id="Version Control" order="4" />
+      <window_info anchor="bottom" id="Version Control" order="4" weight="0.09773371" />
       <window_info anchor="bottom" id="Python Console" order="5" sideWeight="0.49932975" weight="0.31683168" />
       <window_info anchor="bottom" id="Docker" order="6" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="7" />
@@ -685,131 +748,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/PythonAdvanced/day04/3.setDaemonTest.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1334">
-          <caret line="41" column="19" lean-forward="true" selection-start-line="41" selection-start-column="19" selection-end-line="41" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/homework/pythonAdvance/homework_4_socket/test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="261">
-          <caret line="9" column="22" lean-forward="true" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/homework/pythonAdvance/homework_4_socket/client.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="174">
-          <caret line="6" column="13" selection-end-line="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/homework/pythonAdvance/homework_4_socket/service.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="596">
-          <caret line="42" selection-end-line="61" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/RFTest/lesson2/tt.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="174">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/RFTest/lesson2/second.robot.py" />
-    <entry file="file://$PROJECT_DIR$/RFTest/lesson2/log.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/RFTest/lesson2/mylib.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="158">
-          <caret line="39" column="17" selection-start-line="39" selection-start-column="13" selection-end-line="39" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/homework/robotTest/homework1/log.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/RFTest/lesson2/t1.robot">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="174">
-          <caret line="6" column="27" lean-forward="true" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../Python/Python36/Lib/site-packages/selenium/webdriver/common/by.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="203">
-          <caret line="31" column="17" lean-forward="true" selection-start-line="31" selection-start-column="17" selection-end-line="31" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/homework/robotTest/homework1/rfTest.robot">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="145">
-          <caret line="5" column="18" selection-end-line="22" />
-          <folding>
-            <element signature="e#0#77#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/interfaceTest/test3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="116">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/interfaceTest/test2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="290">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/interfaceTest/test1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="290">
-          <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
-          <folding>
-            <element signature="e#73#88#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/interfaceTest/t2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1972">
-          <caret line="68" column="26" selection-start-line="68" selection-start-column="26" selection-end-line="68" selection-end-column="26" />
-          <folding>
-            <element signature="e#89#104#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/interfaceTest/t1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="55">
-          <caret line="22" column="5" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/RFTest/lesson3/s4.robot" />
-    <entry file="file://$PROJECT_DIR$/RFTest/lesson2/second.robot">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="145">
-          <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
-          <folding>
-            <element signature="e#0#56#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/RFTest/lesson3/mylib33.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="58">
@@ -895,15 +833,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/homework/robotTest/homework2/selenium-screenshot-1.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/homework/robotTest/homework2/selenium-screenshot-2.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/homework/robotTest/homework2/selenium-screenshot-3.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/homework/robotTest/homework2/selenium-screenshot-1.png" />
+    <entry file="file://$PROJECT_DIR$/homework/robotTest/homework2/selenium-screenshot-2.png" />
+    <entry file="file://$PROJECT_DIR$/homework/robotTest/homework2/selenium-screenshot-3.png" />
     <entry file="file://$PROJECT_DIR$/RFTest/lesson4/homework2/log.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -1015,30 +947,132 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/homework/robotTest/homework3/selenium-screenshot-1.png" />
+    <entry file="file://$PROJECT_DIR$/homework/robotTest/selenium-screenshot-1.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/homework/robotTest/selenium-screenshot-3.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/homework/robotTest/selenium-screenshot-9.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/homework/robotTest/selenium-screenshot-13.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/homework/robotTest/selenium-screenshot-27.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/homework/robotTest/selenium-screenshot-22.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/homework/robotTest/selenium-screenshot-58.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/homework/robotTest/selenium-screenshot-60.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/homework/robotTest/homework3/courseaction.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="36" column="17" lean-forward="true" selection-start-line="16" selection-start-column="4" selection-end-line="36" selection-end-column="17" />
+        <state relative-caret-position="696">
+          <caret line="24" column="45" lean-forward="true" selection-start-line="24" selection-start-column="45" selection-end-line="24" selection-end-column="45" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/homework/robotTest/homework3/selenium-screenshot-1.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/homework/robotTest/homework3/rc.robot">
+    <entry file="file://$PROJECT_DIR$/homework/robotTest/homework3/cfg.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="258">
-          <caret line="35" column="17" lean-forward="true" selection-start-line="35" selection-start-column="17" selection-end-line="35" selection-end-column="17" />
+        <state relative-caret-position="290">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/homework/robotTest/homework3/course1.robot">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="358">
-          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+        <state relative-caret-position="261">
+          <caret line="9" column="18" lean-forward="true" selection-end-line="40" />
           <folding>
-            <element signature="e#0#106#0" expanded="true" />
+            <element signature="e#0#156#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/homework/robotTest/homework3/rc.robot">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-523">
+          <caret line="13" column="51" lean-forward="true" selection-start-line="13" selection-start-column="51" selection-end-line="13" selection-end-column="51" />
+          <folding>
+            <element signature="e#0#34#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PythonAdvanced/day02/test1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="7" column="11" lean-forward="true" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PythonAdvanced/day02/test2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="522">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PythonAdvanced/day02/test3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="14" column="32" lean-forward="true" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PythonAdvanced/day02/test4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="11" column="38" lean-forward="true" selection-start-line="11" selection-start-column="38" selection-end-line="11" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PythonAdvanced/day01/1.connectTest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-348">
+          <caret line="9" column="8" lean-forward="true" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PythonAdvanced/day01/2.listTest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1694">
+          <caret line="9" column="100" lean-forward="true" selection-start-line="9" selection-start-column="100" selection-end-line="9" selection-end-column="100" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PythonAdvanced/day01/deleteTest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="10" column="16" lean-forward="true" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PythonAdvanced/day01/interviewing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="21" column="19" lean-forward="true" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PythonAdvanced/day01/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="8" column="20" lean-forward="true" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PythonAdvanced/day02/test5.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="421">
+          <caret line="16" column="39" lean-forward="true" selection-start-line="16" selection-start-column="39" selection-end-line="16" selection-end-column="39" />
         </state>
       </provider>
     </entry>

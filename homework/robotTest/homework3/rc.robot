@@ -1,10 +1,18 @@
+*** Settings ***
+variables  cfg.py
+
+#*** Variables ***
+##全局变量表 只支持常量 且必须是RF格式的
+#${url}     http://localhost:90/mgr/login/login.html
+#@{data}    a b c d  3306
+#&{user1}     username=auto    pw=sdfsdfsdf
+
 *** Keywords ***
 #资源文件不可以包含用例表
 loginWebsite
-    open browser   http://localhost:90/mgr/login/login.html   chrome
-    set selenium implicit wait  10
-    input text  id=username      auto
-    input text  id=password     sdfsdfsdf
+    go to   ${url}
+    input text  id=username      &{user1}[username]
+    input text  id=password      &{user1}[pw]
     click element  css = .btn-success
 addCourse
     [Arguments]  ${name}   ${desc}    ${idx}
@@ -23,14 +31,16 @@ checkCourse  [Documentation]  判断元素
 deleteAllCourse
     loginWebsite
     set selenium implicit wait  1
-    FOR  ${i}  IN RANGE  9999
-        ${delete_buttons}    get webelement     css = //tbody/tr/td[4]/button[2]
-        exit for loop if  $delete_buttons == []
-        set selenium implicit wait  1
-        evaluate  delete_buttons[0].click()
+    FOR   ${i}  IN RANGE   9999
+        ${delete_buttons}     Get WebElements    css=[ng-click="delOne(one)"]
+        exit for loop if   $delete_buttons == []
+        evaluate   $delete_buttons[0].click()
         sleep  1
-        click element   css=btn.btn-primary
+        click element   css=.btn-primary
         sleep  1
     END
-
-    CLOSE BROWSER
+websetup
+    open browser   http://localhost   chrome
+    set selenium implicit wait  10
+webtearown
+    close browser
