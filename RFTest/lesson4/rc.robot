@@ -1,7 +1,7 @@
 *** Keywords ***
 #资源文件不可以包含用例表
 loginWebsite
-    open browser   http://localhost:90/mgr/login/login.html   chrome
+    open browser   http://localhost/mgr/login/login.html   chrome
     set selenium implicit wait  10
     input text  id=username      auto
     input text  id=password     sdfsdfsdf
