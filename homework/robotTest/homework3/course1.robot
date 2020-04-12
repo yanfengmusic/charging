@@ -6,7 +6,7 @@ Resource  rc.robot
 *** Test Cases ***
 
 case1
-    [Setup]  deleteAllCourse
+    [Setup]     deleteAllCourse
     [Teardown]  deleteAllCourse
 #登录
     loginWebsite
@@ -23,7 +23,7 @@ case2
 #登录
     loginWebsite
 #添加课程
-    addCourse     自动化测试   自动化测试   1
+    addCourse      自动化测试   自动化测试   1
 #判断课程是否被添加
     checkCourse    自动化测试
 #关闭浏览器
