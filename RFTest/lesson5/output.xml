@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot generator="Robot 3.1.2 (Python 3.8.2 on win32)" generated="20200412 17:38:23.136" rpa="false">
+<suite id="s1" name="Temp2" source="D:\Tools\PycharmProjects\charging\RFTest\lesson5\temp2.robot">
+<test id="s1-t1" name="test1">
+<kw name="Returnint" library="tlib2.SubLibrary">
+<assign>
+<var>${var}</var>
+</assign>
+<msg timestamp="20200412 17:38:23.170" level="INFO">${var} = 2020</msg>
+<status status="PASS" starttime="20200412 17:38:23.170" endtime="20200412 17:38:23.170"></status>
+</kw>
+<kw name="Log To Console" library="BuiltIn">
+<doc>Logs the given message to the console.</doc>
+<arguments>
+<arg>${var}</arg>
+</arguments>
+<status status="PASS" starttime="20200412 17:38:23.171" endtime="20200412 17:38:23.171"></status>
+</kw>
+<status status="PASS" starttime="20200412 17:38:23.169" endtime="20200412 17:38:23.171" critical="yes"></status>
+</test>
+<test id="s1-t2" name="test2">
+<kw name="Printaddr" library="tlib2.SubLibrary2">
+<assign>
+<var>${v}</var>
+</assign>
+<msg timestamp="20200412 17:38:23.173" level="INFO">${v} = None</msg>
+<status status="PASS" starttime="20200412 17:38:23.172" endtime="20200412 17:38:23.173"></status>
+</kw>
+<status status="PASS" starttime="20200412 17:38:23.171" endtime="20200412 17:38:23.174" critical="yes"></status>
+</test>
+<status status="PASS" starttime="20200412 17:38:23.138" endtime="20200412 17:38:23.175"></status>
+</suite>
+<statistics>
+<total>
+<stat pass="2" fail="0">Critical Tests</stat>
+<stat pass="2" fail="0">All Tests</stat>
+</total>
+<tag>
+</tag>
+<suite>
+<stat pass="2" fail="0" id="s1" name="Temp2">Temp2</stat>
+</suite>
+</statistics>
+<errors>
+</errors>
+</robot>

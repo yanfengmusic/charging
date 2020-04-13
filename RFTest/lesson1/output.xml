@@ -1,91 +1,151 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<robot generator="Robot 3.1.2 (Python 3.6.0 on win32)" generated="20200323 22:19:49.708" rpa="false">
-<suite id="s1" name="Test" source="D:\Tools\PythonProjects\Charging\RFTest\lesson1\test.robot">
+<robot generator="Robot 3.1.2 (Python 3.8.2 on win32)" generated="20200406 15:25:04.495" rpa="false">
+<suite id="s1" name="T1" source="D:\Tools\PycharmProjects\charging\RFTest\lesson1\t1.robot">
 <test id="s1-t1" name="用例1">
+<kw name="Import Library" library="BuiltIn">
+<doc>Imports a library with the given name and optional arguments.</doc>
+<arguments>
+<arg>SeleniumLibrary</arg>
+</arguments>
+<status status="PASS" starttime="20200406 15:25:04.948" endtime="20200406 15:25:04.948"></status>
+</kw>
 <kw name="Log To Console" library="BuiltIn">
 <doc>Logs the given message to the console.</doc>
 <arguments>
-<arg>hello robot</arg>
+<arg>用例1</arg>
 </arguments>
-<status status="PASS" starttime="20200323 22:19:49.858" endtime="20200323 22:19:49.858"></status>
+<status status="PASS" starttime="20200406 15:25:04.953" endtime="20200406 15:25:04.953"></status>
 </kw>
-<status status="PASS" starttime="20200323 22:19:49.858" endtime="20200323 22:19:49.868" critical="yes"></status>
+<kw name="Sleep" library="BuiltIn">
+<doc>Pauses the test executed for the given time.</doc>
+<arguments>
+<arg>3</arg>
+</arguments>
+<msg timestamp="20200406 15:25:07.954" level="INFO">Slept 3 seconds</msg>
+<status status="PASS" starttime="20200406 15:25:04.953" endtime="20200406 15:25:07.954"></status>
+</kw>
+<kw name="Log" library="BuiltIn">
+<doc>Logs the given message with the given level.</doc>
+<arguments>
+<arg>打印信息</arg>
+<arg>console=True</arg>
+</arguments>
+<msg timestamp="20200406 15:25:07.954" level="INFO">打印信息</msg>
+<status status="PASS" starttime="20200406 15:25:07.954" endtime="20200406 15:25:07.954"></status>
+</kw>
+<status status="PASS" starttime="20200406 15:25:04.944" endtime="20200406 15:25:07.957" critical="yes"></status>
 </test>
 <test id="s1-t2" name="用例2">
+<kw name="Convert To Integer" library="BuiltIn">
+<doc>Converts the given item to an integer number.</doc>
+<arguments>
+<arg>15</arg>
+</arguments>
+<assign>
+<var>${num}</var>
+</assign>
+<msg timestamp="20200406 15:25:07.961" level="INFO">${num} = 15</msg>
+<status status="PASS" starttime="20200406 15:25:07.961" endtime="20200406 15:25:07.961"></status>
+</kw>
+<status status="PASS" starttime="20200406 15:25:07.961" endtime="20200406 15:25:07.961" critical="yes"></status>
+</test>
+<test id="s1-t3" name="用例3">
+<kw name="Create List" library="BuiltIn">
+<doc>Returns a list containing given items.</doc>
+<arguments>
+<arg>a</arg>
+<arg>b</arg>
+<arg>c</arg>
+<arg>d</arg>
+</arguments>
+<assign>
+<var>${lsit}</var>
+</assign>
+<msg timestamp="20200406 15:25:07.969" level="INFO">${lsit} = ['a', 'b', 'c', 'd']</msg>
+<status status="PASS" starttime="20200406 15:25:07.969" endtime="20200406 15:25:07.969"></status>
+</kw>
 <kw name="Log To Console" library="BuiltIn">
 <doc>Logs the given message to the console.</doc>
 <arguments>
-<arg>测试用例2</arg>
+<arg>${lsit}</arg>
 </arguments>
-<status status="PASS" starttime="20200323 22:19:49.868" endtime="20200323 22:19:49.868"></status>
+<status status="PASS" starttime="20200406 15:25:07.969" endtime="20200406 15:25:07.973"></status>
 </kw>
-<status status="PASS" starttime="20200323 22:19:49.868" endtime="20200323 22:19:49.868" critical="yes"></status>
-</test>
-<test id="s1-t3" name="用例3">
-<kw name="Open Browser" library="SeleniumLibrary">
-<doc>Opens a new browser instance to the optional ``url``.</doc>
+<kw name="${i} IN [ @{lsit} ]" type="for">
+<kw name="${i} = a" type="foritem">
+<kw name="Log To Console" library="BuiltIn">
+<doc>Logs the given message to the console.</doc>
 <arguments>
-<arg>https://www.baidu.com</arg>
-<arg>chrome</arg>
+<arg>${i[0]}</arg>
 </arguments>
-<msg timestamp="20200323 22:19:49.868" level="INFO">Opening browser 'chrome' to base url 'https://www.baidu.com'.</msg>
-<status status="PASS" starttime="20200323 22:19:49.868" endtime="20200323 22:19:55.739"></status>
+<status status="PASS" starttime="20200406 15:25:07.973" endtime="20200406 15:25:07.977"></status>
 </kw>
-<kw name="Set Selenium Implicit Wait" library="SeleniumLibrary">
-<doc>Sets the implicit wait value used by Selenium.</doc>
+<status status="PASS" starttime="20200406 15:25:07.973" endtime="20200406 15:25:07.977"></status>
+</kw>
+<kw name="${i} = b" type="foritem">
+<kw name="Log To Console" library="BuiltIn">
+<doc>Logs the given message to the console.</doc>
 <arguments>
-<arg>1</arg>
+<arg>${i[0]}</arg>
 </arguments>
-<status status="PASS" starttime="20200323 22:19:55.740" endtime="20200323 22:19:55.742"></status>
+<status status="PASS" starttime="20200406 15:25:07.977" endtime="20200406 15:25:07.977"></status>
 </kw>
-<kw name="Input Text" library="SeleniumLibrary">
-<doc>Types the given ``text`` into the text field identified by ``locator``.</doc>
+<status status="PASS" starttime="20200406 15:25:07.977" endtime="20200406 15:25:07.977"></status>
+</kw>
+<kw name="${i} = c" type="foritem">
+<kw name="Log To Console" library="BuiltIn">
+<doc>Logs the given message to the console.</doc>
 <arguments>
-<arg>id=kw</arg>
-<arg>松勤\n</arg>
+<arg>${i[0]}</arg>
 </arguments>
-<msg timestamp="20200323 22:19:55.743" level="INFO">Typing text '松勤
-' into text field 'id=kw'.</msg>
-<status status="PASS" starttime="20200323 22:19:55.743" endtime="20200323 22:19:55.909"></status>
+<status status="PASS" starttime="20200406 15:25:07.977" endtime="20200406 15:25:07.981"></status>
 </kw>
-<kw name="Get Text" library="SeleniumLibrary">
-<doc>Returns the text value of the element identified by ``locator``.</doc>
+<status status="PASS" starttime="20200406 15:25:07.977" endtime="20200406 15:25:07.981"></status>
+</kw>
+<kw name="${i} = d" type="foritem">
+<kw name="Log To Console" library="BuiltIn">
+<doc>Logs the given message to the console.</doc>
 <arguments>
-<arg>id=1</arg>
+<arg>${i[0]}</arg>
+</arguments>
+<status status="PASS" starttime="20200406 15:25:07.981" endtime="20200406 15:25:07.981"></status>
+</kw>
+<status status="PASS" starttime="20200406 15:25:07.981" endtime="20200406 15:25:07.981"></status>
+</kw>
+<status status="PASS" starttime="20200406 15:25:07.973" endtime="20200406 15:25:07.981"></status>
+</kw>
+<kw name="Create Dictionary" library="BuiltIn">
+<doc>Creates and returns a dictionary based on the given ``items``.</doc>
+<arguments>
+<arg>a=10,b=20</arg>
 </arguments>
 <assign>
-<var>${res}</var>
+<var>${dict}</var>
 </assign>
-<msg timestamp="20200323 22:19:56.629" level="INFO">${res} = 松勤网 - 松勤软件测试-软件测试在线教育领跑者-国内最专业的软件...
-松勤是一家专注于软件测试技能培训的在线教育机构。目前已开设软件测试相关课程100余门,涵盖软件测试基础、自动化测试、性能测试、安全测试、接口测试、认证考试、职场...
-www.songqinnet.com/  - 百度快照 - 评价</msg>
-<status status="PASS" starttime="20200323 22:19:55.909" endtime="20200323 22:19:56.629"></status>
+<msg timestamp="20200406 15:25:07.985" level="INFO">${dict} = {'a': '10,b=20'}</msg>
+<status status="PASS" starttime="20200406 15:25:07.981" endtime="20200406 15:25:07.985"></status>
 </kw>
-<kw name="Should Contain" library="BuiltIn">
-<doc>Fails if ``container`` does not contain ``item`` one or more times.</doc>
+<kw name="FOR ${A}">
 <arguments>
-<arg>${res}</arg>
-<arg>松勤网</arg>
+<arg>IN</arg>
+<arg>@{dict}</arg>
 </arguments>
-<status status="PASS" starttime="20200323 22:19:56.630" endtime="20200323 22:19:56.630"></status>
+<msg timestamp="20200406 15:25:07.993" level="FAIL">No keyword with name 'FOR ${A}' found.</msg>
+<status status="FAIL" starttime="20200406 15:25:07.993" endtime="20200406 15:25:07.993"></status>
 </kw>
-<kw name="Close Browser" library="SeleniumLibrary">
-<doc>Closes the current browser.</doc>
-<status status="PASS" starttime="20200323 22:19:56.631" endtime="20200323 22:19:58.781"></status>
-</kw>
-<status status="PASS" starttime="20200323 22:19:49.868" endtime="20200323 22:19:58.781" critical="yes"></status>
+<status status="FAIL" starttime="20200406 15:25:07.969" endtime="20200406 15:25:07.997" critical="yes">No keyword with name 'FOR ${A}' found.</status>
 </test>
-<status status="PASS" starttime="20200323 22:19:49.708" endtime="20200323 22:19:58.781"></status>
+<status status="FAIL" starttime="20200406 15:25:04.499" endtime="20200406 15:25:08.001"></status>
 </suite>
 <statistics>
 <total>
-<stat pass="3" fail="0">Critical Tests</stat>
-<stat pass="3" fail="0">All Tests</stat>
+<stat pass="2" fail="1">Critical Tests</stat>
+<stat pass="2" fail="1">All Tests</stat>
 </total>
 <tag>
 </tag>
 <suite>
-<stat pass="3" fail="0" id="s1" name="Test">Test</stat>
+<stat pass="2" fail="1" id="s1" name="T1">T1</stat>
 </suite>
 </statistics>
 <errors>
