@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a3453cd5-4455-4908-80f8-a39c530d0e6d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/RFTest/lesson4/rc.robot" beforeDir="false" afterPath="$PROJECT_DIR$/RFTest/lesson4/rc.robot" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework/robotTest/homework3/cfg.py" beforeDir="false" afterPath="$PROJECT_DIR$/homework/robotTest/homework3/cfg.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework/robotTest/selenium-screenshot-1.png" beforeDir="false" />
-    </list>
+    <list default="true" id="a3453cd5-4455-4908-80f8-a39c530d0e6d" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,8 +50,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="621" />
-    <option name="y" value="18" />
+    <option name="x" value="187" />
+    <option name="y" value="17" />
     <option name="width" value="1465" />
     <option name="height" value="1103" />
   </component>
@@ -176,15 +172,14 @@
     <option name="totallyTimeSpent" value="10606000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="213" y="16" width="1172" height="882" extended-state="0" />
-    <editor active="true" />
+    <frame x="150" y="14" width="1172" height="882" extended-state="0" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27289048" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.30933332" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.30933332" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
