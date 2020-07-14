@@ -18,5 +18,12 @@ Library  huawei
     FOR  ${one}  In  @{list_data}
         log to console  ${one}
     END
+用例3
+    open browser  http:
+    set selenium implicit wait  10
+    ${goods}  'get webelements'  css=
+    ${res}  evaluate  [good.text  for good in goods $goods]
+    log to console  ${res}
+    close browser
 
 

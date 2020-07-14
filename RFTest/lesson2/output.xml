@@ -1,129 +1,173 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<robot generator="Robot 3.1.2 (Python 3.6.0 on win32)" generated="20200330 15:43:17.160" rpa="false">
-<suite id="s1" name="Second" source="D:\Tools\PythonProjects\Charging\RFTest\lesson2\second.robot">
-<test id="s1-t1" name="关键字测试">
-<kw name="Convert To Integer" library="BuiltIn">
-<doc>Converts the given item to an integer number.</doc>
+<robot generator="Robot 3.1.2 (Python 3.6.0 on win32)" generated="20200602 17:30:48.061" rpa="false">
+<suite id="s1" name="T2" source="D:\Tools\PythonProjects\Charging\RFTest\lesson2\t2.robot">
+<test id="s1-t1" name="case1">
+<kw name="Create List" library="BuiltIn">
+<doc>Returns a list containing given items.</doc>
 <arguments>
-<arg>2020</arg>
+<arg>1</arg>
+<arg>2</arg>
+<arg>3</arg>
 </arguments>
-<assign>
-<var>${num}</var>
-</assign>
-<msg timestamp="20200330 15:43:17.726" level="INFO">${num} = 2020</msg>
-<status status="PASS" starttime="20200330 15:43:17.726" endtime="20200330 15:43:17.726"></status>
-</kw>
-<kw name="Printargs" library="mylib">
-<arguments>
-<arg>123</arg>
-</arguments>
-<msg timestamp="20200330 15:43:17.727" level="INFO">*** args are ***
--------------------------
-'123'
-*** no kwargs ***</msg>
-<status status="PASS" starttime="20200330 15:43:17.727" endtime="20200330 15:43:17.727"></status>
-</kw>
-<kw name="Printargs" library="mylib">
-<arguments>
-<arg>${num}</arg>
-</arguments>
-<msg timestamp="20200330 15:43:17.727" level="INFO">*** args are ***
--------------------------
-2020
-*** no kwargs ***</msg>
-<status status="PASS" starttime="20200330 15:43:17.727" endtime="20200330 15:43:17.727"></status>
-</kw>
-<kw name="Return List" library="mylib">
 <assign>
 <var>${list}</var>
 </assign>
-<msg timestamp="20200330 15:43:17.728" level="INFO">${list} = [1, 2, 3, 4]</msg>
-<status status="PASS" starttime="20200330 15:43:17.728" endtime="20200330 15:43:17.728"></status>
+<msg timestamp="20200602 17:30:48.087" level="INFO">${list} = ['1', '2', '3']</msg>
+<status status="PASS" starttime="20200602 17:30:48.086" endtime="20200602 17:30:48.087"></status>
 </kw>
-<kw name="Printargs" library="mylib">
-<arguments>
-<arg>${list}</arg>
-</arguments>
-<msg timestamp="20200330 15:43:17.728" level="INFO">*** args are ***
--------------------------
-[1, 2, 3, 4]
-*** no kwargs ***</msg>
-<status status="PASS" starttime="20200330 15:43:17.728" endtime="20200330 15:43:17.729"></status>
-</kw>
-<kw name="Printargs" library="mylib">
-<arguments>
-<arg>@{list}</arg>
-</arguments>
-<msg timestamp="20200330 15:43:17.729" level="INFO">*** args are ***
--------------------------
-1
-2
-3
-4
-*** no kwargs ***</msg>
-<status status="PASS" starttime="20200330 15:43:17.729" endtime="20200330 15:43:17.729"></status>
-</kw>
-<kw name="Printargs" library="mylib">
-<arguments>
-<arg>@{list}[0]</arg>
-</arguments>
-<msg timestamp="20200330 15:43:17.730" level="INFO">*** args are ***
--------------------------
-1
-*** no kwargs ***</msg>
-<status status="PASS" starttime="20200330 15:43:17.730" endtime="20200330 15:43:17.730"></status>
-</kw>
-<kw name="Printargs" library="mylib">
+<kw name="Log Many" library="BuiltIn">
+<doc>Logs the given messages as separate entries using the INFO level.</doc>
 <arguments>
 <arg>${list[0]}</arg>
 </arguments>
-<msg timestamp="20200330 15:43:17.731" level="INFO">*** args are ***
--------------------------
-1
-*** no kwargs ***</msg>
-<status status="PASS" starttime="20200330 15:43:17.730" endtime="20200330 15:43:17.731"></status>
+<msg timestamp="20200602 17:30:48.088" level="INFO">1</msg>
+<status status="PASS" starttime="20200602 17:30:48.088" endtime="20200602 17:30:48.088"></status>
 </kw>
-<kw name="Return Dict" library="mylib">
+<kw name="Log Many" library="BuiltIn">
+<doc>Logs the given messages as separate entries using the INFO level.</doc>
+<arguments>
+<arg>@{list}[1]</arg>
+</arguments>
+<msg timestamp="20200602 17:30:48.089" level="INFO">2</msg>
+<status status="PASS" starttime="20200602 17:30:48.088" endtime="20200602 17:30:48.089"></status>
+</kw>
+<status status="PASS" starttime="20200602 17:30:48.086" endtime="20200602 17:30:48.089" critical="yes"></status>
+</test>
+<test id="s1-t2" name="case2">
+<kw name="Create Dictionary" library="BuiltIn">
+<doc>Creates and returns a dictionary based on the given ``items``.</doc>
+<arguments>
+<arg>a=15555</arg>
+<arg>b=2</arg>
+<arg>c=3</arg>
+</arguments>
 <assign>
 <var>${dict}</var>
 </assign>
-<msg timestamp="20200330 15:43:17.731" level="INFO">${dict} = {'key1': 123, 'key2': '456'}</msg>
-<status status="PASS" starttime="20200330 15:43:17.731" endtime="20200330 15:43:17.731"></status>
+<msg timestamp="20200602 17:30:48.092" level="INFO">${dict} = {'a': '15555', 'b': '2', 'c': '3'}</msg>
+<status status="PASS" starttime="20200602 17:30:48.092" endtime="20200602 17:30:48.092"></status>
 </kw>
-<kw name="Printargs" library="mylib">
+<kw name="Log Many" library="BuiltIn">
+<doc>Logs the given messages as separate entries using the INFO level.</doc>
 <arguments>
 <arg>${dict}</arg>
 </arguments>
-<msg timestamp="20200330 15:43:17.732" level="INFO">*** args are ***
--------------------------
-{'key1': 123, 'key2': '456'}
-*** no kwargs ***</msg>
-<status status="PASS" starttime="20200330 15:43:17.732" endtime="20200330 15:43:17.732"></status>
+<msg timestamp="20200602 17:30:48.093" level="INFO">{'a': '15555', 'b': '2', 'c': '3'}</msg>
+<status status="PASS" starttime="20200602 17:30:48.093" endtime="20200602 17:30:48.093"></status>
 </kw>
-<kw name="Printargs" library="mylib">
+<kw name="Log Many" library="BuiltIn">
+<doc>Logs the given messages as separate entries using the INFO level.</doc>
 <arguments>
-<arg>${dict['key1']}</arg>
+<arg>&amp;{dict}</arg>
 </arguments>
-<msg timestamp="20200330 15:43:17.733" level="INFO">*** args are ***
--------------------------
-123
-*** no kwargs ***</msg>
-<status status="PASS" starttime="20200330 15:43:17.732" endtime="20200330 15:43:17.733"></status>
+<msg timestamp="20200602 17:30:48.093" level="INFO">a=15555</msg>
+<msg timestamp="20200602 17:30:48.093" level="INFO">b=2</msg>
+<msg timestamp="20200602 17:30:48.093" level="INFO">c=3</msg>
+<status status="PASS" starttime="20200602 17:30:48.093" endtime="20200602 17:30:48.093"></status>
 </kw>
-<kw name="Printargs" library="mylib">
+<kw name="Log Many" library="BuiltIn">
+<doc>Logs the given messages as separate entries using the INFO level.</doc>
 <arguments>
-<arg>@{dict}</arg>
+<arg>${dict['a']}</arg>
 </arguments>
-<msg timestamp="20200330 15:43:17.734" level="INFO">*** args are ***
--------------------------
-'key1'
-'key2'
-*** no kwargs ***</msg>
-<status status="PASS" starttime="20200330 15:43:17.733" endtime="20200330 15:43:17.734"></status>
+<msg timestamp="20200602 17:30:48.095" level="INFO">15555</msg>
+<status status="PASS" starttime="20200602 17:30:48.094" endtime="20200602 17:30:48.095"></status>
 </kw>
-<status status="PASS" starttime="20200330 15:43:17.725" endtime="20200330 15:43:17.734" critical="yes"></status>
+<kw name="Log Many" library="BuiltIn">
+<doc>Logs the given messages as separate entries using the INFO level.</doc>
+<arguments>
+<arg>&amp;{dict}[a]</arg>
+</arguments>
+<msg timestamp="20200602 17:30:48.095" level="INFO">15555</msg>
+<status status="PASS" starttime="20200602 17:30:48.095" endtime="20200602 17:30:48.095"></status>
+</kw>
+<status status="PASS" starttime="20200602 17:30:48.091" endtime="20200602 17:30:48.096" critical="yes"></status>
 </test>
-<test id="s1-t2" name="循环">
+<test id="s1-t3" name="case3">
+<kw name="${A} IN [ A | B | C ]" type="for">
+<kw name="${A} = A" type="foritem">
+<kw name="Log To Console" library="BuiltIn">
+<doc>Logs the given message to the console.</doc>
+<arguments>
+<arg>${A}</arg>
+</arguments>
+<status status="PASS" starttime="20200602 17:30:48.098" endtime="20200602 17:30:48.099"></status>
+</kw>
+<status status="PASS" starttime="20200602 17:30:48.098" endtime="20200602 17:30:48.099"></status>
+</kw>
+<kw name="${A} = B" type="foritem">
+<kw name="Log To Console" library="BuiltIn">
+<doc>Logs the given message to the console.</doc>
+<arguments>
+<arg>${A}</arg>
+</arguments>
+<status status="PASS" starttime="20200602 17:30:48.099" endtime="20200602 17:30:48.100"></status>
+</kw>
+<status status="PASS" starttime="20200602 17:30:48.099" endtime="20200602 17:30:48.100"></status>
+</kw>
+<kw name="${A} = C" type="foritem">
+<kw name="Log To Console" library="BuiltIn">
+<doc>Logs the given message to the console.</doc>
+<arguments>
+<arg>${A}</arg>
+</arguments>
+<status status="PASS" starttime="20200602 17:30:48.100" endtime="20200602 17:30:48.100"></status>
+</kw>
+<status status="PASS" starttime="20200602 17:30:48.100" endtime="20200602 17:30:48.100"></status>
+</kw>
+<status status="PASS" starttime="20200602 17:30:48.098" endtime="20200602 17:30:48.100"></status>
+</kw>
+<kw name="Log To Console" library="BuiltIn">
+<doc>Logs the given message to the console.</doc>
+<arguments>
+<arg>循环体外面</arg>
+</arguments>
+<status status="PASS" starttime="20200602 17:30:48.101" endtime="20200602 17:30:48.101"></status>
+</kw>
+<doc>for循环老语法</doc>
+<status status="PASS" starttime="20200602 17:30:48.097" endtime="20200602 17:30:48.101" critical="yes"></status>
+</test>
+<test id="s1-t4" name="case4">
+<kw name="${a} IN [ a | b | c ]" type="for">
+<kw name="${a} = a" type="foritem">
+<kw name="Log To Console" library="BuiltIn">
+<doc>Logs the given message to the console.</doc>
+<arguments>
+<arg>${a}</arg>
+</arguments>
+<status status="PASS" starttime="20200602 17:30:48.103" endtime="20200602 17:30:48.104"></status>
+</kw>
+<status status="PASS" starttime="20200602 17:30:48.103" endtime="20200602 17:30:48.104"></status>
+</kw>
+<kw name="${a} = b" type="foritem">
+<kw name="Log To Console" library="BuiltIn">
+<doc>Logs the given message to the console.</doc>
+<arguments>
+<arg>${a}</arg>
+</arguments>
+<status status="PASS" starttime="20200602 17:30:48.104" endtime="20200602 17:30:48.105"></status>
+</kw>
+<status status="PASS" starttime="20200602 17:30:48.104" endtime="20200602 17:30:48.105"></status>
+</kw>
+<kw name="${a} = c" type="foritem">
+<kw name="Log To Console" library="BuiltIn">
+<doc>Logs the given message to the console.</doc>
+<arguments>
+<arg>${a}</arg>
+</arguments>
+<status status="PASS" starttime="20200602 17:30:48.105" endtime="20200602 17:30:48.105"></status>
+</kw>
+<status status="PASS" starttime="20200602 17:30:48.105" endtime="20200602 17:30:48.105"></status>
+</kw>
+<status status="PASS" starttime="20200602 17:30:48.103" endtime="20200602 17:30:48.105"></status>
+</kw>
+<kw name="Log To Console" library="BuiltIn">
+<doc>Logs the given message to the console.</doc>
+<arguments>
+<arg>循环体外面</arg>
+</arguments>
+<status status="PASS" starttime="20200602 17:30:48.106" endtime="20200602 17:30:48.106"></status>
+</kw>
 <kw name="Create List" library="BuiltIn">
 <doc>Returns a list containing given items.</doc>
 <arguments>
@@ -131,212 +175,325 @@
 <arg>b</arg>
 <arg>c</arg>
 <arg>d</arg>
+<arg>e</arg>
 </arguments>
 <assign>
 <var>${list}</var>
 </assign>
-<msg timestamp="20200330 15:43:17.737" level="INFO">${list} = ['a', 'b', 'c', 'd']</msg>
-<status status="PASS" starttime="20200330 15:43:17.737" endtime="20200330 15:43:17.737"></status>
+<msg timestamp="20200602 17:30:48.107" level="INFO">${list} = ['a', 'b', 'c', 'd', 'e']</msg>
+<status status="PASS" starttime="20200602 17:30:48.107" endtime="20200602 17:30:48.107"></status>
 </kw>
-<kw name="${i} IN [ @{list} ]" type="for">
-<kw name="${i} = a" type="foritem">
+<kw name="${a} IN [ @{list} ]" type="for">
+<kw name="${a} = a" type="foritem">
 <kw name="Log To Console" library="BuiltIn">
 <doc>Logs the given message to the console.</doc>
 <arguments>
-<arg>${i}</arg>
+<arg>${a}</arg>
 </arguments>
-<status status="PASS" starttime="20200330 15:43:17.737" endtime="20200330 15:43:17.738"></status>
+<status status="PASS" starttime="20200602 17:30:48.108" endtime="20200602 17:30:48.108"></status>
 </kw>
+<status status="PASS" starttime="20200602 17:30:48.108" endtime="20200602 17:30:48.108"></status>
+</kw>
+<kw name="${a} = b" type="foritem">
 <kw name="Log To Console" library="BuiltIn">
 <doc>Logs the given message to the console.</doc>
 <arguments>
-<arg>----</arg>
+<arg>${a}</arg>
 </arguments>
-<status status="PASS" starttime="20200330 15:43:17.738" endtime="20200330 15:43:17.738"></status>
+<status status="PASS" starttime="20200602 17:30:48.108" endtime="20200602 17:30:48.108"></status>
 </kw>
-<status status="PASS" starttime="20200330 15:43:17.737" endtime="20200330 15:43:17.738"></status>
+<status status="PASS" starttime="20200602 17:30:48.108" endtime="20200602 17:30:48.109"></status>
 </kw>
-<kw name="${i} = b" type="foritem">
+<kw name="${a} = c" type="foritem">
 <kw name="Log To Console" library="BuiltIn">
 <doc>Logs the given message to the console.</doc>
 <arguments>
-<arg>${i}</arg>
+<arg>${a}</arg>
 </arguments>
-<status status="PASS" starttime="20200330 15:43:17.738" endtime="20200330 15:43:17.738"></status>
+<status status="PASS" starttime="20200602 17:30:48.109" endtime="20200602 17:30:48.109"></status>
 </kw>
+<status status="PASS" starttime="20200602 17:30:48.109" endtime="20200602 17:30:48.109"></status>
+</kw>
+<kw name="${a} = d" type="foritem">
 <kw name="Log To Console" library="BuiltIn">
 <doc>Logs the given message to the console.</doc>
 <arguments>
-<arg>----</arg>
+<arg>${a}</arg>
 </arguments>
-<status status="PASS" starttime="20200330 15:43:17.738" endtime="20200330 15:43:17.739"></status>
+<status status="PASS" starttime="20200602 17:30:48.109" endtime="20200602 17:30:48.110"></status>
 </kw>
-<status status="PASS" starttime="20200330 15:43:17.738" endtime="20200330 15:43:17.739"></status>
+<status status="PASS" starttime="20200602 17:30:48.109" endtime="20200602 17:30:48.110"></status>
 </kw>
-<kw name="${i} = c" type="foritem">
+<kw name="${a} = e" type="foritem">
 <kw name="Log To Console" library="BuiltIn">
 <doc>Logs the given message to the console.</doc>
 <arguments>
-<arg>${i}</arg>
+<arg>${a}</arg>
 </arguments>
-<status status="PASS" starttime="20200330 15:43:17.739" endtime="20200330 15:43:17.739"></status>
+<status status="PASS" starttime="20200602 17:30:48.110" endtime="20200602 17:30:48.110"></status>
 </kw>
-<kw name="Log To Console" library="BuiltIn">
-<doc>Logs the given message to the console.</doc>
-<arguments>
-<arg>----</arg>
-</arguments>
-<status status="PASS" starttime="20200330 15:43:17.739" endtime="20200330 15:43:17.739"></status>
+<status status="PASS" starttime="20200602 17:30:48.110" endtime="20200602 17:30:48.110"></status>
 </kw>
-<status status="PASS" starttime="20200330 15:43:17.739" endtime="20200330 15:43:17.739"></status>
-</kw>
-<kw name="${i} = d" type="foritem">
-<kw name="Log To Console" library="BuiltIn">
-<doc>Logs the given message to the console.</doc>
-<arguments>
-<arg>${i}</arg>
-</arguments>
-<status status="PASS" starttime="20200330 15:43:17.740" endtime="20200330 15:43:17.740"></status>
+<status status="PASS" starttime="20200602 17:30:48.107" endtime="20200602 17:30:48.110"></status>
 </kw>
 <kw name="Log To Console" library="BuiltIn">
 <doc>Logs the given message to the console.</doc>
 <arguments>
-<arg>----</arg>
+<arg>循环体外面</arg>
 </arguments>
-<status status="PASS" starttime="20200330 15:43:17.740" endtime="20200330 15:43:17.740"></status>
+<status status="PASS" starttime="20200602 17:30:48.110" endtime="20200602 17:30:48.111"></status>
 </kw>
-<status status="PASS" starttime="20200330 15:43:17.739" endtime="20200330 15:43:17.740"></status>
-</kw>
-<status status="PASS" starttime="20200330 15:43:17.737" endtime="20200330 15:43:17.740"></status>
-</kw>
-<kw name="Log To Console" library="BuiltIn">
-<doc>Logs the given message to the console.</doc>
-<arguments>
-<arg>循环出结果</arg>
-</arguments>
-<status status="PASS" starttime="20200330 15:43:17.741" endtime="20200330 15:43:17.741"></status>
-</kw>
-<kw name="${one} IN RANGE [ 10 ]" type="for">
-<kw name="${one} = 0" type="foritem">
-<kw name="Log To Console" library="BuiltIn">
-<doc>Logs the given message to the console.</doc>
-<arguments>
-<arg>${one}</arg>
-</arguments>
-<status status="PASS" starttime="20200330 15:43:17.741" endtime="20200330 15:43:17.744"></status>
-</kw>
-<status status="PASS" starttime="20200330 15:43:17.741" endtime="20200330 15:43:17.745"></status>
-</kw>
-<kw name="${one} = 1" type="foritem">
-<kw name="Log To Console" library="BuiltIn">
-<doc>Logs the given message to the console.</doc>
-<arguments>
-<arg>${one}</arg>
-</arguments>
-<status status="PASS" starttime="20200330 15:43:17.745" endtime="20200330 15:43:17.745"></status>
-</kw>
-<status status="PASS" starttime="20200330 15:43:17.745" endtime="20200330 15:43:17.745"></status>
-</kw>
-<kw name="${one} = 2" type="foritem">
-<kw name="Log To Console" library="BuiltIn">
-<doc>Logs the given message to the console.</doc>
-<arguments>
-<arg>${one}</arg>
-</arguments>
-<status status="PASS" starttime="20200330 15:43:17.746" endtime="20200330 15:43:17.746"></status>
-</kw>
-<status status="PASS" starttime="20200330 15:43:17.745" endtime="20200330 15:43:17.746"></status>
-</kw>
-<kw name="${one} = 3" type="foritem">
-<kw name="Log To Console" library="BuiltIn">
-<doc>Logs the given message to the console.</doc>
-<arguments>
-<arg>${one}</arg>
-</arguments>
-<status status="PASS" starttime="20200330 15:43:17.746" endtime="20200330 15:43:17.747"></status>
-</kw>
-<status status="PASS" starttime="20200330 15:43:17.746" endtime="20200330 15:43:17.747"></status>
-</kw>
-<kw name="${one} = 4" type="foritem">
-<kw name="Log To Console" library="BuiltIn">
-<doc>Logs the given message to the console.</doc>
-<arguments>
-<arg>${one}</arg>
-</arguments>
-<status status="PASS" starttime="20200330 15:43:17.747" endtime="20200330 15:43:17.747"></status>
-</kw>
-<status status="PASS" starttime="20200330 15:43:17.747" endtime="20200330 15:43:17.747"></status>
-</kw>
-<kw name="${one} = 5" type="foritem">
-<kw name="Log To Console" library="BuiltIn">
-<doc>Logs the given message to the console.</doc>
-<arguments>
-<arg>${one}</arg>
-</arguments>
-<status status="PASS" starttime="20200330 15:43:17.747" endtime="20200330 15:43:17.748"></status>
-</kw>
-<status status="PASS" starttime="20200330 15:43:17.747" endtime="20200330 15:43:17.748"></status>
-</kw>
-<kw name="${one} = 6" type="foritem">
-<kw name="Log To Console" library="BuiltIn">
-<doc>Logs the given message to the console.</doc>
-<arguments>
-<arg>${one}</arg>
-</arguments>
-<status status="PASS" starttime="20200330 15:43:17.748" endtime="20200330 15:43:17.748"></status>
-</kw>
-<status status="PASS" starttime="20200330 15:43:17.748" endtime="20200330 15:43:17.748"></status>
-</kw>
-<kw name="${one} = 7" type="foritem">
-<kw name="Log To Console" library="BuiltIn">
-<doc>Logs the given message to the console.</doc>
-<arguments>
-<arg>${one}</arg>
-</arguments>
-<status status="PASS" starttime="20200330 15:43:17.749" endtime="20200330 15:43:17.749"></status>
-</kw>
-<status status="PASS" starttime="20200330 15:43:17.748" endtime="20200330 15:43:17.749"></status>
-</kw>
-<kw name="${one} = 8" type="foritem">
-<kw name="Log To Console" library="BuiltIn">
-<doc>Logs the given message to the console.</doc>
-<arguments>
-<arg>${one}</arg>
-</arguments>
-<status status="PASS" starttime="20200330 15:43:17.749" endtime="20200330 15:43:17.751"></status>
-</kw>
-<status status="PASS" starttime="20200330 15:43:17.749" endtime="20200330 15:43:17.751"></status>
-</kw>
-<kw name="${one} = 9" type="foritem">
-<kw name="Log To Console" library="BuiltIn">
-<doc>Logs the given message to the console.</doc>
-<arguments>
-<arg>${one}</arg>
-</arguments>
-<status status="PASS" starttime="20200330 15:43:17.752" endtime="20200330 15:43:17.753"></status>
-</kw>
-<status status="PASS" starttime="20200330 15:43:17.751" endtime="20200330 15:43:17.753"></status>
-</kw>
-<status status="PASS" starttime="20200330 15:43:17.741" endtime="20200330 15:43:17.753"></status>
-</kw>
-<doc>新语法</doc>
-<status status="PASS" starttime="20200330 15:43:17.736" endtime="20200330 15:43:17.757" critical="yes"></status>
+<status status="PASS" starttime="20200602 17:30:48.102" endtime="20200602 17:30:48.111" critical="yes"></status>
 </test>
-<status status="PASS" starttime="20200330 15:43:17.161" endtime="20200330 15:43:17.758"></status>
+<test id="s1-t5" name="case4">
+<kw name="${S} IN RANGE [ 10 ]" type="for">
+<kw name="${S} = 0" type="foritem">
+<kw name="Log To Console" library="BuiltIn">
+<doc>Logs the given message to the console.</doc>
+<arguments>
+<arg>${S}</arg>
+</arguments>
+<status status="PASS" starttime="20200602 17:30:48.115" endtime="20200602 17:30:48.116"></status>
+</kw>
+<status status="PASS" starttime="20200602 17:30:48.115" endtime="20200602 17:30:48.116"></status>
+</kw>
+<kw name="${S} = 1" type="foritem">
+<kw name="Log To Console" library="BuiltIn">
+<doc>Logs the given message to the console.</doc>
+<arguments>
+<arg>${S}</arg>
+</arguments>
+<status status="PASS" starttime="20200602 17:30:48.116" endtime="20200602 17:30:48.116"></status>
+</kw>
+<status status="PASS" starttime="20200602 17:30:48.116" endtime="20200602 17:30:48.116"></status>
+</kw>
+<kw name="${S} = 2" type="foritem">
+<kw name="Log To Console" library="BuiltIn">
+<doc>Logs the given message to the console.</doc>
+<arguments>
+<arg>${S}</arg>
+</arguments>
+<status status="PASS" starttime="20200602 17:30:48.116" endtime="20200602 17:30:48.117"></status>
+</kw>
+<status status="PASS" starttime="20200602 17:30:48.116" endtime="20200602 17:30:48.117"></status>
+</kw>
+<kw name="${S} = 3" type="foritem">
+<kw name="Log To Console" library="BuiltIn">
+<doc>Logs the given message to the console.</doc>
+<arguments>
+<arg>${S}</arg>
+</arguments>
+<status status="PASS" starttime="20200602 17:30:48.117" endtime="20200602 17:30:48.117"></status>
+</kw>
+<status status="PASS" starttime="20200602 17:30:48.117" endtime="20200602 17:30:48.117"></status>
+</kw>
+<kw name="${S} = 4" type="foritem">
+<kw name="Log To Console" library="BuiltIn">
+<doc>Logs the given message to the console.</doc>
+<arguments>
+<arg>${S}</arg>
+</arguments>
+<status status="PASS" starttime="20200602 17:30:48.117" endtime="20200602 17:30:48.117"></status>
+</kw>
+<status status="PASS" starttime="20200602 17:30:48.117" endtime="20200602 17:30:48.118"></status>
+</kw>
+<kw name="${S} = 5" type="foritem">
+<kw name="Log To Console" library="BuiltIn">
+<doc>Logs the given message to the console.</doc>
+<arguments>
+<arg>${S}</arg>
+</arguments>
+<status status="PASS" starttime="20200602 17:30:48.118" endtime="20200602 17:30:48.118"></status>
+</kw>
+<status status="PASS" starttime="20200602 17:30:48.118" endtime="20200602 17:30:48.118"></status>
+</kw>
+<kw name="${S} = 6" type="foritem">
+<kw name="Log To Console" library="BuiltIn">
+<doc>Logs the given message to the console.</doc>
+<arguments>
+<arg>${S}</arg>
+</arguments>
+<status status="PASS" starttime="20200602 17:30:48.118" endtime="20200602 17:30:48.119"></status>
+</kw>
+<status status="PASS" starttime="20200602 17:30:48.118" endtime="20200602 17:30:48.119"></status>
+</kw>
+<kw name="${S} = 7" type="foritem">
+<kw name="Log To Console" library="BuiltIn">
+<doc>Logs the given message to the console.</doc>
+<arguments>
+<arg>${S}</arg>
+</arguments>
+<status status="PASS" starttime="20200602 17:30:48.119" endtime="20200602 17:30:48.121"></status>
+</kw>
+<status status="PASS" starttime="20200602 17:30:48.119" endtime="20200602 17:30:48.121"></status>
+</kw>
+<kw name="${S} = 8" type="foritem">
+<kw name="Log To Console" library="BuiltIn">
+<doc>Logs the given message to the console.</doc>
+<arguments>
+<arg>${S}</arg>
+</arguments>
+<status status="PASS" starttime="20200602 17:30:48.121" endtime="20200602 17:30:48.121"></status>
+</kw>
+<status status="PASS" starttime="20200602 17:30:48.121" endtime="20200602 17:30:48.121"></status>
+</kw>
+<kw name="${S} = 9" type="foritem">
+<kw name="Log To Console" library="BuiltIn">
+<doc>Logs the given message to the console.</doc>
+<arguments>
+<arg>${S}</arg>
+</arguments>
+<status status="PASS" starttime="20200602 17:30:48.122" endtime="20200602 17:30:48.122"></status>
+</kw>
+<status status="PASS" starttime="20200602 17:30:48.121" endtime="20200602 17:30:48.122"></status>
+</kw>
+<status status="PASS" starttime="20200602 17:30:48.115" endtime="20200602 17:30:48.122"></status>
+</kw>
+<kw name="Log To Console" library="BuiltIn">
+<doc>Logs the given message to the console.</doc>
+<arguments>
+<arg>结束循环</arg>
+</arguments>
+<status status="PASS" starttime="20200602 17:30:48.122" endtime="20200602 17:30:48.122"></status>
+</kw>
+<doc>FOR循环-Range</doc>
+<status status="PASS" starttime="20200602 17:30:48.112" endtime="20200602 17:30:48.123" critical="yes"></status>
+</test>
+<test id="s1-t6" name="case5">
+<kw name="${S} IN RANGE [ 5 | 10 ]" type="for">
+<kw name="${S} = 5" type="foritem">
+<kw name="Log To Console" library="BuiltIn">
+<doc>Logs the given message to the console.</doc>
+<arguments>
+<arg>${S}</arg>
+</arguments>
+<status status="PASS" starttime="20200602 17:30:48.125" endtime="20200602 17:30:48.126"></status>
+</kw>
+<status status="PASS" starttime="20200602 17:30:48.125" endtime="20200602 17:30:48.126"></status>
+</kw>
+<kw name="${S} = 6" type="foritem">
+<kw name="Log To Console" library="BuiltIn">
+<doc>Logs the given message to the console.</doc>
+<arguments>
+<arg>${S}</arg>
+</arguments>
+<status status="PASS" starttime="20200602 17:30:48.126" endtime="20200602 17:30:48.126"></status>
+</kw>
+<status status="PASS" starttime="20200602 17:30:48.126" endtime="20200602 17:30:48.126"></status>
+</kw>
+<kw name="${S} = 7" type="foritem">
+<kw name="Log To Console" library="BuiltIn">
+<doc>Logs the given message to the console.</doc>
+<arguments>
+<arg>${S}</arg>
+</arguments>
+<status status="PASS" starttime="20200602 17:30:48.126" endtime="20200602 17:30:48.127"></status>
+</kw>
+<status status="PASS" starttime="20200602 17:30:48.126" endtime="20200602 17:30:48.127"></status>
+</kw>
+<kw name="${S} = 8" type="foritem">
+<kw name="Log To Console" library="BuiltIn">
+<doc>Logs the given message to the console.</doc>
+<arguments>
+<arg>${S}</arg>
+</arguments>
+<status status="PASS" starttime="20200602 17:30:48.127" endtime="20200602 17:30:48.127"></status>
+</kw>
+<status status="PASS" starttime="20200602 17:30:48.127" endtime="20200602 17:30:48.127"></status>
+</kw>
+<kw name="${S} = 9" type="foritem">
+<kw name="Log To Console" library="BuiltIn">
+<doc>Logs the given message to the console.</doc>
+<arguments>
+<arg>${S}</arg>
+</arguments>
+<status status="PASS" starttime="20200602 17:30:48.127" endtime="20200602 17:30:48.128"></status>
+</kw>
+<status status="PASS" starttime="20200602 17:30:48.127" endtime="20200602 17:30:48.128"></status>
+</kw>
+<status status="PASS" starttime="20200602 17:30:48.125" endtime="20200602 17:30:48.128"></status>
+</kw>
+<kw name="Log To Console" library="BuiltIn">
+<doc>Logs the given message to the console.</doc>
+<arguments>
+<arg>结束循环</arg>
+</arguments>
+<status status="PASS" starttime="20200602 17:30:48.129" endtime="20200602 17:30:48.129"></status>
+</kw>
+<doc>FOR循环-Range指定循环区间</doc>
+<status status="PASS" starttime="20200602 17:30:48.123" endtime="20200602 17:30:48.130" critical="yes"></status>
+</test>
+<test id="s1-t7" name="case6">
+<kw name="${S} IN RANGE [ 2 | 10 | 2 ]" type="for">
+<kw name="${S} = 2" type="foritem">
+<kw name="Log To Console" library="BuiltIn">
+<doc>Logs the given message to the console.</doc>
+<arguments>
+<arg>${S}</arg>
+</arguments>
+<status status="PASS" starttime="20200602 17:30:48.133" endtime="20200602 17:30:48.133"></status>
+</kw>
+<status status="PASS" starttime="20200602 17:30:48.133" endtime="20200602 17:30:48.133"></status>
+</kw>
+<kw name="${S} = 4" type="foritem">
+<kw name="Log To Console" library="BuiltIn">
+<doc>Logs the given message to the console.</doc>
+<arguments>
+<arg>${S}</arg>
+</arguments>
+<status status="PASS" starttime="20200602 17:30:48.134" endtime="20200602 17:30:48.136"></status>
+</kw>
+<status status="PASS" starttime="20200602 17:30:48.133" endtime="20200602 17:30:48.136"></status>
+</kw>
+<kw name="${S} = 6" type="foritem">
+<kw name="Log To Console" library="BuiltIn">
+<doc>Logs the given message to the console.</doc>
+<arguments>
+<arg>${S}</arg>
+</arguments>
+<status status="PASS" starttime="20200602 17:30:48.136" endtime="20200602 17:30:48.136"></status>
+</kw>
+<status status="PASS" starttime="20200602 17:30:48.136" endtime="20200602 17:30:48.136"></status>
+</kw>
+<kw name="${S} = 8" type="foritem">
+<kw name="Log To Console" library="BuiltIn">
+<doc>Logs the given message to the console.</doc>
+<arguments>
+<arg>${S}</arg>
+</arguments>
+<status status="PASS" starttime="20200602 17:30:48.136" endtime="20200602 17:30:48.136"></status>
+</kw>
+<status status="PASS" starttime="20200602 17:30:48.136" endtime="20200602 17:30:48.136"></status>
+</kw>
+<status status="PASS" starttime="20200602 17:30:48.133" endtime="20200602 17:30:48.137"></status>
+</kw>
+<kw name="Log To Console" library="BuiltIn">
+<doc>Logs the given message to the console.</doc>
+<arguments>
+<arg>结束循环</arg>
+</arguments>
+<status status="PASS" starttime="20200602 17:30:48.137" endtime="20200602 17:30:48.137"></status>
+</kw>
+<doc>FOR循环-Range 步长用法</doc>
+<status status="PASS" starttime="20200602 17:30:48.132" endtime="20200602 17:30:48.137" critical="yes"></status>
+</test>
+<status status="PASS" starttime="20200602 17:30:48.062" endtime="20200602 17:30:48.138"></status>
 </suite>
 <statistics>
 <total>
-<stat pass="2" fail="0">Critical Tests</stat>
-<stat pass="2" fail="0">All Tests</stat>
+<stat pass="7" fail="0">Critical Tests</stat>
+<stat pass="7" fail="0">All Tests</stat>
 </total>
 <tag>
 </tag>
 <suite>
-<stat pass="2" fail="0" id="s1" name="Second">Second</stat>
+<stat pass="7" fail="0" id="s1" name="T2">T2</stat>
 </suite>
 </statistics>
 <errors>
-<msg timestamp="20200330 15:43:17.154" level="WARN">Error in file 'D:\Tools\PythonProjects\Charging\RFTest\lesson2\second.robot': Invalid syntax in test case '循环': Using 'In' as a FOR loop separator is deprecated. Use 'IN' instead.</msg>
-<msg timestamp="20200330 15:43:17.155" level="WARN">Error in file 'D:\Tools\PythonProjects\Charging\RFTest\lesson2\second.robot': Invalid syntax in test case '循环': Using 'In RANGE' as a FOR loop separator is deprecated. Use 'IN RANGE' instead.</msg>
+<msg timestamp="20200602 17:30:48.055" level="WARN">Error in file 'D:\Tools\PythonProjects\Charging\RFTest\lesson2\t2.robot': Invalid syntax in test case 'case4': Using 'in' as a FOR loop separator is deprecated. Use 'IN' instead.</msg>
+<msg timestamp="20200602 17:30:48.056" level="ERROR">Error in file 'D:\Tools\PythonProjects\Charging\RFTest\lesson2\t2.robot': Invalid syntax in test case 'case4': Setting '[Documentation]' used multiple times.</msg>
+<msg timestamp="20200602 17:30:48.056" level="WARN">Error in file 'D:\Tools\PythonProjects\Charging\RFTest\lesson2\t2.robot': Invalid syntax in test case 'case4': Using 'in' as a FOR loop separator is deprecated. Use 'IN' instead.</msg>
+<msg timestamp="20200602 17:30:48.112" level="WARN">Multiple test cases with name 'case4' executed in test suite 'T2'.</msg>
 </errors>
 </robot>

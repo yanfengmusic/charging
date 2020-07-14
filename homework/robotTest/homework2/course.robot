@@ -1,15 +1,12 @@
 *** Settings ***
 Library  courseaction
 Library  SeleniumLibrary
-<<<<<<< HEAD
-=======
 Library  Collections
->>>>>>> 138f8b7a9108e44b203fde456990b5c6084ea1ef
+
 *** Test Cases ***
 
 case1
     [Setup]  deleteAllCourse
-<<<<<<< HEAD
     open browser   http://localhost:90/mgr/login/login.html  chrome
     set selenium implicit wait  10
     input text  id=uesername   auto
@@ -24,7 +21,7 @@ case1
 
 #    获取元素
     ${eles}  get webelements
-=======
+
     open browser   http://localhost:90/mgr/login/login.html   chrome
     set selenium implicit wait  10
     input text  id=username      auto
@@ -49,10 +46,4 @@ case1
     close browser
 
 
-
-
-
-
-
->>>>>>> 138f8b7a9108e44b203fde456990b5c6084ea1ef
 

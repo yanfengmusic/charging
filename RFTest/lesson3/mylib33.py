@@ -1,6 +1,17 @@
 import requests
 import os,sys
 from selenium import webdriver
+from robot.api.logger import console
+
+def check_score1(score):
+    if int(score) >= 60:
+        print("恭喜你及格了")
+        console("恭喜你及格了")
+    else:
+        print("回去复习吧")
+        console("回去复习吧")
+
+
 
 def check_score(num):
     assert num>60

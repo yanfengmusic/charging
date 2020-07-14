@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot generator="Robot 3.1.2 (Python 3.6.0 on win32)" generated="20200705 22:25:10.042" rpa="false">
+<suite id="s1" name="Tc" source="D:\Tools\PythonProjects\Charging\homework\projectPractise\robot_homework\tc">
+<suite id="s1-s1" name="课程管理" source="D:\Tools\PythonProjects\Charging\homework\projectPractise\robot_homework\tc\课程管理">
+<suite id="s1-s1-s1" name="添加课程" source="D:\Tools\PythonProjects\Charging\homework\projectPractise\robot_homework\tc\课程管理\添加课程.robot">
+<test id="s1-s1-s1-t1" name="添加课程1">
+<kw name="Run Keywords" library="BuiltIn" type="setup">
+<doc>Executes all the given keywords in a sequence.</doc>
+<arguments>
+<arg>loginWebsite</arg>
+<arg>AND</arg>
+<arg>deleteAllCourse</arg>
+<arg>AND</arg>
+<arg>deleteAllTeacher</arg>
+</arguments>
+<kw name="Login Website" library="pylib.Web">
+<status status="PASS" starttime="20200705 22:25:15.696" endtime="20200705 22:25:16.951"></status>
+</kw>
+<kw name="Delete All Course" library="pylib.Web">
+<msg timestamp="20200705 22:25:23.073" level="INFO">0
+删除完毕</msg>
+<status status="PASS" starttime="20200705 22:25:16.952" endtime="20200705 22:25:23.073"></status>
+</kw>
+<kw name="Delete All Teacher" library="pylib.Web">
+<msg timestamp="20200705 22:25:32.626" level="INFO">1
+0
+删除完毕</msg>
+<status status="PASS" starttime="20200705 22:25:23.073" endtime="20200705 22:25:32.626"></status>
+</kw>
+<status status="PASS" starttime="20200705 22:25:15.696" endtime="20200705 22:25:32.626"></status>
+</kw>
+<kw name="Add Course" library="pylib.Web">
+<doc>添加课程</doc>
+<arguments>
+<arg>初中语文</arg>
+<arg>语文课</arg>
+<arg>2</arg>
+</arguments>
+<status status="PASS" starttime="20200705 22:25:32.627" endtime="20200705 22:25:39.653"></status>
+</kw>
+<kw name="Run Keywords" library="BuiltIn" type="teardown">
+<doc>Executes all the given keywords in a sequence.</doc>
+<arguments>
+<arg>deleteAllCourse</arg>
+</arguments>
+<kw name="Delete All Course" library="pylib.Web">
+<msg timestamp="20200705 22:25:49.174" level="INFO">1
+0
+删除完毕</msg>
+<status status="PASS" starttime="20200705 22:25:39.655" endtime="20200705 22:25:49.175"></status>
+</kw>
+<status status="PASS" starttime="20200705 22:25:39.655" endtime="20200705 22:25:49.175"></status>
+</kw>
+<status status="PASS" starttime="20200705 22:25:15.694" endtime="20200705 22:25:49.176" critical="yes"></status>
+</test>
+<status status="PASS" starttime="20200705 22:25:10.121" endtime="20200705 22:25:49.177"></status>
+</suite>
+<status status="PASS" starttime="20200705 22:25:10.118" endtime="20200705 22:25:49.179"></status>
+</suite>
+<status status="PASS" starttime="20200705 22:25:10.046" endtime="20200705 22:25:49.181"></status>
+</suite>
+<statistics>
+<total>
+<stat pass="1" fail="0">Critical Tests</stat>
+<stat pass="1" fail="0">All Tests</stat>
+</total>
+<tag>
+</tag>
+<suite>
+<stat pass="1" fail="0" id="s1" name="Tc">Tc</stat>
+<stat pass="1" fail="0" id="s1-s1" name="课程管理">Tc.课程管理</stat>
+<stat pass="1" fail="0" id="s1-s1-s1" name="添加课程">Tc.课程管理.添加课程</stat>
+</suite>
+</statistics>
+<errors>
+</errors>
+</robot>

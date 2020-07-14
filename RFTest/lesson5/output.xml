@@ -1,44 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<robot generator="Robot 3.1.2 (Python 3.8.2 on win32)" generated="20200412 17:38:23.136" rpa="false">
-<suite id="s1" name="Temp2" source="D:\Tools\PycharmProjects\charging\RFTest\lesson5\temp2.robot">
-<test id="s1-t1" name="test1">
-<kw name="Returnint" library="tlib2.SubLibrary">
+<robot generator="Robot 3.1.2 (Python 3.6.0 on win32)" generated="20200609 22:14:11.682" rpa="false">
+<suite id="s1" name="Test" source="D:\Tools\PythonProjects\Charging\RFTest\lesson5\test.robot">
+<test id="s1-t1" name="用例1">
+<kw name="Evaluate" library="BuiltIn">
+<doc>Evaluates the given expression in Python and returns the results.</doc>
+<arguments>
+<arg>[i for i in range (10)]</arg>
+</arguments>
 <assign>
-<var>${var}</var>
+<var>${a}</var>
 </assign>
-<msg timestamp="20200412 17:38:23.170" level="INFO">${var} = 2020</msg>
-<status status="PASS" starttime="20200412 17:38:23.170" endtime="20200412 17:38:23.170"></status>
+<msg timestamp="20200609 22:14:11.852" level="INFO">${a} = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]</msg>
+<status status="PASS" starttime="20200609 22:14:11.852" endtime="20200609 22:14:11.852"></status>
 </kw>
 <kw name="Log To Console" library="BuiltIn">
 <doc>Logs the given message to the console.</doc>
 <arguments>
-<arg>${var}</arg>
+<arg>${a}</arg>
 </arguments>
-<status status="PASS" starttime="20200412 17:38:23.171" endtime="20200412 17:38:23.171"></status>
+<status status="PASS" starttime="20200609 22:14:11.853" endtime="20200609 22:14:11.853"></status>
 </kw>
-<status status="PASS" starttime="20200412 17:38:23.169" endtime="20200412 17:38:23.171" critical="yes"></status>
-</test>
-<test id="s1-t2" name="test2">
-<kw name="Printaddr" library="tlib2.SubLibrary2">
-<assign>
-<var>${v}</var>
-</assign>
-<msg timestamp="20200412 17:38:23.173" level="INFO">${v} = None</msg>
-<status status="PASS" starttime="20200412 17:38:23.172" endtime="20200412 17:38:23.173"></status>
+<kw name="Log To Console" library="BuiltIn">
+<doc>Logs the given message to the console.</doc>
+<arguments>
+<arg>@{a}</arg>
+</arguments>
+<msg timestamp="20200609 22:14:11.854" level="FAIL">Keyword 'BuiltIn.Log To Console' expected 1 to 3 arguments, got 10.</msg>
+<status status="FAIL" starttime="20200609 22:14:11.854" endtime="20200609 22:14:11.854"></status>
 </kw>
-<status status="PASS" starttime="20200412 17:38:23.171" endtime="20200412 17:38:23.174" critical="yes"></status>
+<status status="FAIL" starttime="20200609 22:14:11.851" endtime="20200609 22:14:11.855" critical="yes">Keyword 'BuiltIn.Log To Console' expected 1 to 3 arguments, got 10.</status>
 </test>
-<status status="PASS" starttime="20200412 17:38:23.138" endtime="20200412 17:38:23.175"></status>
+<status status="FAIL" starttime="20200609 22:14:11.686" endtime="20200609 22:14:11.858"></status>
 </suite>
 <statistics>
 <total>
-<stat pass="2" fail="0">Critical Tests</stat>
-<stat pass="2" fail="0">All Tests</stat>
+<stat pass="0" fail="1">Critical Tests</stat>
+<stat pass="0" fail="1">All Tests</stat>
 </total>
 <tag>
 </tag>
 <suite>
-<stat pass="2" fail="0" id="s1" name="Temp2">Temp2</stat>
+<stat pass="0" fail="1" id="s1" name="Test">Test</stat>
 </suite>
 </statistics>
 <errors>

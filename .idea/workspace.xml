@@ -1,0 +1,839 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/RFTest/T1/t1.robot" line="5" />
+    <bookmark url="file://$PROJECT_DIR$/RFTest/lesson2/first.robot" line="24" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a76cc48a-6695-4e45-ae0f-bcca6742d5c3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/RFTest/T1/t1.robot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RFTest/lesson2/t2.robot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RFTest/lesson3/course.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RFTest/lesson3/course.robot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RFTest/lesson3/resource.robot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RFTest/lesson3/suit1/__init__.robot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RFTest/lesson3/suit1/t1.robot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RFTest/lesson3/suit1/t2.robot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RFTest/lesson3/t1.robot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RFTest/lesson3/t2.robot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RFTest/lesson3/t3.robot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RFTest/lesson4/kw1.robot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RFTest/lesson5/test.robot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RFTest/pylib/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RFTest/pylib/mylib3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/projectPractise/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/projectPractise/python1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/projectPractise/python2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/projectPractise/python3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/projectPractise/python4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/projectPractise/python5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/projectPractise/python6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/projectPractise/python7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/projectPractise/python8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/projectPractise/robot_homework/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/projectPractise/robot_homework/cfg/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/projectPractise/robot_homework/cfg/cfg.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/projectPractise/robot_homework/pylib/Web.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/projectPractise/robot_homework/pylib/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/projectPractise/robot_homework/rflib/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/projectPractise/robot_homework/rflib/rc.robot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/projectPractise/robot_homework/tc/课程管理/添加课程.robot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/robotTest/homework3/test.robot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/robotTest/homework4/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/robotTest/homework4/cfg/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/robotTest/homework4/cfg/cfg.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/robotTest/homework4/pylib/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/robotTest/homework4/pylib/courseaction.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/robotTest/homework4/rflib/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/robotTest/homework4/rflib/rc.robot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/robotTest/homework4/tc/老师管理/添加老师.robot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/robotTest/homework4/tc/课程管理/添加课程.robot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/robotTest/homework4/作业.text" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/robotTest/homework5/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/robotTest/homework5/cfg/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/robotTest/homework5/cfg/cfg.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/robotTest/homework5/pylib/WebOpAdmin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/robotTest/homework5/pylib/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/robotTest/homework5/rflib/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/robotTest/homework5/rflib/rc.robot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/robotTest/homework5/tc/老师管理/添加老师.robot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/robotTest/homework5/tc/课程管理/添加课程.robot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Charging.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Charging.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RFTest/lesson2/first.robot" beforeDir="false" afterPath="$PROJECT_DIR$/RFTest/lesson2/first.robot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RFTest/lesson2/log.html" beforeDir="false" afterPath="$PROJECT_DIR$/RFTest/lesson2/log.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RFTest/lesson2/output.xml" beforeDir="false" afterPath="$PROJECT_DIR$/RFTest/lesson2/output.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RFTest/lesson2/report.html" beforeDir="false" afterPath="$PROJECT_DIR$/RFTest/lesson2/report.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RFTest/lesson3/__init__.robot" beforeDir="false" afterPath="$PROJECT_DIR$/RFTest/lesson3/__init__.robot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RFTest/lesson3/log.html" beforeDir="false" afterPath="$PROJECT_DIR$/RFTest/lesson3/log.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RFTest/lesson3/mylib33.py" beforeDir="false" afterPath="$PROJECT_DIR$/RFTest/lesson3/mylib33.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RFTest/lesson3/output.xml" beforeDir="false" afterPath="$PROJECT_DIR$/RFTest/lesson3/output.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RFTest/lesson3/report.html" beforeDir="false" afterPath="$PROJECT_DIR$/RFTest/lesson3/report.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RFTest/lesson3/s1.robot" beforeDir="false" afterPath="$PROJECT_DIR$/RFTest/lesson3/s1.robot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RFTest/lesson4/log.html" beforeDir="false" afterPath="$PROJECT_DIR$/RFTest/lesson4/log.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RFTest/lesson4/output.xml" beforeDir="false" afterPath="$PROJECT_DIR$/RFTest/lesson4/output.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RFTest/lesson4/report.html" beforeDir="false" afterPath="$PROJECT_DIR$/RFTest/lesson4/report.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RFTest/lesson5/log.html" beforeDir="false" afterPath="$PROJECT_DIR$/RFTest/lesson5/log.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RFTest/lesson5/output.xml" beforeDir="false" afterPath="$PROJECT_DIR$/RFTest/lesson5/output.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RFTest/lesson5/report.html" beforeDir="false" afterPath="$PROJECT_DIR$/RFTest/lesson5/report.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework/robotTest/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/RFTest/T1/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework/robotTest/homework1/rfTest.robot" beforeDir="false" afterPath="$PROJECT_DIR$/homework/robotTest/homework1/rfTest.robot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework/robotTest/homework2/course.robot" beforeDir="false" afterPath="$PROJECT_DIR$/homework/robotTest/homework2/course.robot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework/robotTest/homework3/log.html" beforeDir="false" afterPath="$PROJECT_DIR$/homework/robotTest/homework3/log.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework/robotTest/homework3/output.xml" beforeDir="false" afterPath="$PROJECT_DIR$/homework/robotTest/homework3/output.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework/robotTest/homework3/rc.robot" beforeDir="false" afterPath="$PROJECT_DIR$/homework/robotTest/homework3/rc.robot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework/robotTest/homework3/report.html" beforeDir="false" afterPath="$PROJECT_DIR$/homework/robotTest/homework3/report.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework/robotTest/log.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework/robotTest/output.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework/robotTest/report.html" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/Charging$WebOpAdmin.coverage" NAME="WebOpAdmin Coverage Results" MODIFIED="1592668316224" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework/robotTest/homework5/pylib" />
+    <SUITE FILE_PATH="coverage/Charging$python3.coverage" NAME="python3 Coverage Results" MODIFIED="1593702796050" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework/projectPractise" />
+    <SUITE FILE_PATH="coverage/Charging$python6.coverage" NAME="python6 Coverage Results" MODIFIED="1593703257832" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework/projectPractise" />
+    <SUITE FILE_PATH="coverage/Charging$Web.coverage" NAME="Web Coverage Results" MODIFIED="1593958616443" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework/projectPractise/robot_homework/pylib" />
+    <SUITE FILE_PATH="coverage/Charging$test.coverage" NAME="test Coverage Results" MODIFIED="1591580728516" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/RFTest/lesson3" />
+    <SUITE FILE_PATH="coverage/Charging$python7.coverage" NAME="python7 Coverage Results" MODIFIED="1593947850725" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework/projectPractise" />
+    <SUITE FILE_PATH="coverage/Charging$python1.coverage" NAME="python1 Coverage Results" MODIFIED="1593702192983" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework/projectPractise" />
+    <SUITE FILE_PATH="coverage/Charging$mylib3.coverage" NAME="mylib3 Coverage Results" MODIFIED="1591081005795" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/RFTest/pylib" />
+    <SUITE FILE_PATH="coverage/Charging$python4.coverage" NAME="python4 Coverage Results" MODIFIED="1593702896994" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework/projectPractise" />
+    <SUITE FILE_PATH="coverage/Charging$action.coverage" NAME="action Coverage Results" MODIFIED="1592380530476" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework/robotTest/homework5/pylib" />
+    <SUITE FILE_PATH="coverage/Charging$python2.coverage" NAME="python2 Coverage Results" MODIFIED="1593702332613" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework/projectPractise" />
+    <SUITE FILE_PATH="coverage/Charging$python5.coverage" NAME="python5 Coverage Results" MODIFIED="1593957402289" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework/projectPractise" />
+    <SUITE FILE_PATH="coverage/Charging$course.coverage" NAME="course Coverage Results" MODIFIED="1591346629474" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/RFTest/lesson3" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/homework/projectPractise/robot_homework/tc/课程管理/添加课程.robot">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="189">
+              <caret line="8" column="9" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/homework/robotTest/homework5/tc/课程管理/添加课程.robot">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="11" column="42" selection-start-line="11" selection-start-column="42" selection-end-line="11" selection-end-column="42" />
+              <folding>
+                <element signature="e#0#44#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/homework/projectPractise/robot_homework/__init__.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/homework/projectPractise/robot_homework/pylib/Web.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="27">
+              <caret line="99" column="20" selection-start-line="99" selection-start-column="20" selection-end-line="99" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/homework/robotTest/homework5/tc/老师管理/添加老师.robot">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="405">
+              <caret line="17" column="34" selection-start-line="17" selection-start-column="34" selection-end-line="17" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>[ng-model=&quot;$parent.courseSelected&quot;]</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/RFTest/lesson2/first.robot" />
+        <option value="$PROJECT_DIR$/RFTest/lesson2/t2.robot" />
+        <option value="$PROJECT_DIR$/RFTest/lesson3/t3.robot.py" />
+        <option value="$PROJECT_DIR$/RFTest/lesson3/mylib33.py" />
+        <option value="$PROJECT_DIR$/RFTest/lesson3/t2.robot" />
+        <option value="$PROJECT_DIR$/RFTest/lesson3/__init__.robot" />
+        <option value="$PROJECT_DIR$/RFTest/lesson3/suit1/__init__.robot.py" />
+        <option value="$PROJECT_DIR$/RFTest/lesson3/suit1/t1.robot" />
+        <option value="$PROJECT_DIR$/RFTest/lesson3/suit1/__init__.robot" />
+        <option value="$PROJECT_DIR$/RFTest/lesson3/suit1/t2.robot" />
+        <option value="$PROJECT_DIR$/homework/robotTest/homework1/rfTest.robot" />
+        <option value="$PROJECT_DIR$/RFTest/lesson3/t1.robot" />
+        <option value="$PROJECT_DIR$/RFTest/lesson3/t3.robot" />
+        <option value="$PROJECT_DIR$/RFTest/lesson3/course.py" />
+        <option value="$PROJECT_DIR$/RFTest/lesson4/kw1.robot" />
+        <option value="$PROJECT_DIR$/homework/robotTest/homework3/resource.robot" />
+        <option value="$PROJECT_DIR$/RFTest/lesson3/course.robot" />
+        <option value="$PROJECT_DIR$/RFTest/lesson3/test.py" />
+        <option value="$PROJECT_DIR$/RFTest/lesson3/resource.robot" />
+        <option value="$PROJECT_DIR$/RFTest/lesson3/s1.robot" />
+        <option value="$PROJECT_DIR$/RFTest/lesson5/test.robot" />
+        <option value="$PROJECT_DIR$/homework/robotTest/homework2/course.robot" />
+        <option value="$PROJECT_DIR$/homework/robotTest/homework3/test.robot" />
+        <option value="$PROJECT_DIR$/homework/robotTest/homework4/act.robot" />
+        <option value="$PROJECT_DIR$/homework/robotTest/homework4/rc.robot" />
+        <option value="$PROJECT_DIR$/homework/robotTest/homework3/rc.robot" />
+        <option value="$PROJECT_DIR$/homework/robotTest/homework4/tc.robot" />
+        <option value="$PROJECT_DIR$/homework/robotTest/homework4/作业.text" />
+        <option value="$PROJECT_DIR$/homework/robotTest/homework4/课程管理/tc.robot" />
+        <option value="$PROJECT_DIR$/homework/robotTest/homework4/老师管理/rc.robot" />
+        <option value="$PROJECT_DIR$/homework/robotTest/homework4/老师管理/tc.robot" />
+        <option value="$PROJECT_DIR$/homework/robotTest/homework4/tc/课程管理/添加课程.robot" />
+        <option value="$PROJECT_DIR$/homework/robotTest/homework4/tc/老师管理/添加老师.robot" />
+        <option value="$PROJECT_DIR$/homework/robotTest/homework4/rflib/rc.robot" />
+        <option value="$PROJECT_DIR$/homework/robotTest/homework5/pylib/courseaction.py" />
+        <option value="$PROJECT_DIR$/homework/robotTest/homework5/pylib/action.py" />
+        <option value="$PROJECT_DIR$/homework/robotTest/homework5/cfg/cfg.py" />
+        <option value="$PROJECT_DIR$/homework/robotTest/homework5/tc/课程管理/添加课程.robot" />
+        <option value="$PROJECT_DIR$/homework/robotTest/homework5/pylib/WebOpAdmin.py" />
+        <option value="$PROJECT_DIR$/homework/projectPractise/python1.py" />
+        <option value="$PROJECT_DIR$/homework/projectPractise/python2.py" />
+        <option value="$PROJECT_DIR$/homework/projectPractise/pthon3.py" />
+        <option value="$PROJECT_DIR$/homework/projectPractise/python3.py" />
+        <option value="$PROJECT_DIR$/homework/projectPractise/python4.py" />
+        <option value="$PROJECT_DIR$/homework/projectPractise/python6.py" />
+        <option value="$PROJECT_DIR$/homework/projectPractise/python8.py" />
+        <option value="$PROJECT_DIR$/homework/projectPractise/python7.py" />
+        <option value="$PROJECT_DIR$/homework/projectPractise/python5.py" />
+        <option value="$PROJECT_DIR$/homework/projectPractise/robot_homework/pylib/Web.py" />
+        <option value="$PROJECT_DIR$/homework/robotTest/homework5/tc/老师管理/添加老师.robot" />
+        <option value="$PROJECT_DIR$/homework/projectPractise/robot_homework/tc/课程管理/添加课程.robot" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="645" />
+    <option name="y" value="15" />
+    <option name="width" value="1195" />
+    <option name="height" value="1050" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Charging" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Charging" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../web_pro" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Tools\PythonProjects\Charging\homework\robotTest\homework4\tc\课程管理" />
+      <recent name="D:\Tools\PythonProjects\Charging\homework\robotTest\homework4\tc\老师管理" />
+      <recent name="D:\Tools\PythonProjects\Charging\homework\robotTest\homework4\tc" />
+      <recent name="D:\Tools\PythonProjects\Charging\homework\robotTest\homework4\cfg" />
+      <recent name="D:\Tools\PythonProjects\Charging\homework\robotTest\homework4" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Tools\PythonProjects\Charging\homework\projectPractise\robot_homework\tc" />
+      <recent name="D:\Tools\PythonProjects\Charging\homework\projectPractise" />
+      <recent name="D:\Tools\PythonProjects\Charging\homework\robotTest\homework5" />
+      <recent name="D:\Tools\PythonProjects\Charging\homework\robotTest\homework4\老师管理" />
+      <recent name="D:\Tools\PythonProjects\Charging\homework\robotTest\homework4" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.Web">
+    <configuration name="Web" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Charging" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/homework/projectPractise/robot_homework/pylib" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/homework/projectPractise/robot_homework/pylib/Web.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="python4" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Charging" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/homework/projectPractise" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/homework/projectPractise/python4.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="python5" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Charging" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/homework/projectPractise" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/homework/projectPractise/python5.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="python6" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Charging" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/homework/projectPractise" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/homework/projectPractise/python6.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="python7" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Charging" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/homework/projectPractise" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/homework/projectPractise/python7.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Web" />
+        <item itemvalue="Python.python5" />
+        <item itemvalue="Python.python7" />
+        <item itemvalue="Python.python6" />
+        <item itemvalue="Python.python4" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a76cc48a-6695-4e45-ae0f-bcca6742d5c3" name="Default Changelist" comment="" />
+      <created>1586785361650</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586785361650</updated>
+      <workItem from="1586785374581" duration="401000" />
+      <workItem from="1586855000705" duration="823000" />
+      <workItem from="1586913293722" duration="1067000" />
+      <workItem from="1587302803372" duration="1271000" />
+      <workItem from="1587344001847" duration="4715000" />
+      <workItem from="1587456617700" duration="1632000" />
+      <workItem from="1587516514947" duration="620000" />
+      <workItem from="1588744424449" duration="1888000" />
+      <workItem from="1588812373145" duration="1194000" />
+      <workItem from="1588899795067" duration="1832000" />
+      <workItem from="1588987828810" duration="1328000" />
+      <workItem from="1589117112194" duration="595000" />
+      <workItem from="1589159809062" duration="2560000" />
+      <workItem from="1589202655930" duration="663000" />
+      <workItem from="1590823886614" duration="2699000" />
+      <workItem from="1591078031733" duration="9903000" />
+      <workItem from="1591104079484" duration="2990000" />
+      <workItem from="1591146492985" duration="18086000" />
+      <workItem from="1591232582336" duration="4774000" />
+      <workItem from="1591327073897" duration="15686000" />
+      <workItem from="1591541532148" duration="3440000" />
+      <workItem from="1591578800371" duration="3929000" />
+      <workItem from="1591711593389" duration="1057000" />
+      <workItem from="1591971242035" duration="3410000" />
+      <workItem from="1592204219103" duration="4894000" />
+      <workItem from="1592267314161" duration="9268000" />
+      <workItem from="1592284561893" duration="5167000" />
+      <workItem from="1592354344319" duration="1087000" />
+      <workItem from="1592355481235" duration="23012000" />
+      <workItem from="1592402196070" duration="2559000" />
+      <workItem from="1592526005231" duration="5579000" />
+      <workItem from="1592640091463" duration="10784000" />
+      <workItem from="1592667633272" duration="820000" />
+      <workItem from="1592723020857" duration="6420000" />
+      <workItem from="1592814083033" duration="953000" />
+      <workItem from="1592920715820" duration="1195000" />
+      <workItem from="1592961245806" duration="597000" />
+      <workItem from="1593701766876" duration="1956000" />
+      <workItem from="1593874245186" duration="14563000" />
+      <workItem from="1594107684754" duration="944000" />
+      <workItem from="1594131267856" duration="898000" />
+      <workItem from="1594179961689" duration="598000" />
+      <workItem from="1594297826016" duration="40000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="177897000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20442359" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.43108505" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.28445747" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17292225" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32991204" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.28445747" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/homework/robotTest/homework4/tc/老师管理/rc_Teacher.robot" />
+    <entry file="file://$PROJECT_DIR$/homework/robotTest/homework4/log.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/homework/robotTest/homework4/selenium-screenshot-2.png" />
+    <entry file="file://$PROJECT_DIR$/homework/robotTest/homework4/selenium-screenshot-1.png" />
+    <entry file="file://$PROJECT_DIR$/RFTest/lesson4/homework2/course2_ddt.robot">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="11" column="29" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
+          <folding>
+            <element signature="e#0#106#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/homework/robotTest/homework4/tc/老师管理/添加老师.robot">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" column="21" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/homework/robotTest/homework4/tc/课程管理/添加课程.robot">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+          <folding>
+            <element signature="e#0#117#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/homework/robotTest/homework4/rflib/rc.robot">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="12" column="51" lean-forward="true" selection-start-line="12" selection-start-column="51" selection-end-line="12" selection-end-column="51" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/homework/appinumTest/homework_17_appinum.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-324">
+          <caret line="12" column="11" lean-forward="true" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/appiumTest/6.xpathTest/xpath_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="9" column="15" lean-forward="true" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/appiumTest/3.手势操作/demo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-829" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/appiumTest/1.envireonment/model.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/appiumTest/2.setup&amp;teardown/demo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="11" column="33" lean-forward="true" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../Python/Python36/Lib/site-packages/selenium/webdriver/support/select.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="86" selection-start-line="86" selection-end-line="86" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../Python/Python36/Lib/site-packages/selenium/webdriver/support/wait.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2079">
+          <caret line="79" selection-start-line="79" selection-end-line="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../Python/Python36/Lib/site-packages/selenium/webdriver/remote/webelement.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1863">
+          <caret line="79" selection-start-line="79" selection-end-line="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../Python/Python36/Lib/site-packages/selenium/webdriver/common/by.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="891">
+          <caret line="33" column="28" selection-start-line="33" selection-start-column="18" selection-end-line="33" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/appiumTest/4.MwebTest/demo.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/homework/robotTest/homework5/rflib/rc.robot">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="10" column="12" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/homework/robotTest/homework5/cfg/cfg.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="8" column="6" selection-start-line="8" selection-end-line="8" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../Python/Python36/Lib/codecs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8316">
+          <caret line="308" selection-start-line="308" selection-end-line="308" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/homework/robotTest/homework4/作业.text">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/homework/pythonTest/homework_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-784" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/homework/pythonTest/homework_2_copyTest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-891" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/homework/pythonTest/homework_5_format.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/homework/pythonTest/homework_4_format.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-729" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/homework/pythonTest/homework_3_func.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-370" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/homework/pythonTest/homework_6_file.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-640" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/homework/pythonTest/homework_7_sort.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-486" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/homework/pythonTest/homework_8_dict.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-243" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/homework/pythonTest/homework_9.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-972" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/homework/pythonTest/homework_10.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-162" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/homework/pythonTest/homework_11.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-127" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pythonTest/10.whileTest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="11" column="15" selection-start-line="11" selection-start-column="15" selection-end-line="11" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/homework/projectPractise/python4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="413">
+          <caret line="19" column="27" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/homework/projectPractise/python3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="386">
+          <caret line="27" column="22" selection-start-line="27" selection-start-column="22" selection-end-line="27" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/homework/projectPractise/python2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="485">
+          <caret line="24" column="17" lean-forward="true" selection-start-line="24" selection-start-column="17" selection-end-line="24" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/homework/projectPractise/python1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/homework/projectPractise/python6.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="332">
+          <caret line="16" column="11" lean-forward="true" selection-start-line="16" selection-start-column="11" selection-end-line="16" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../Python/Python36/Lib/site-packages/selenium/webdriver/remote/webdriver.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="427" selection-start-line="427" selection-end-line="427" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/homework/projectPractise/python7.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="33" column="31" selection-start-line="33" selection-start-column="31" selection-end-line="33" selection-end-column="31" />
+          <folding>
+            <element signature="e#213#243#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/homework/robotTest/homework5/pylib/WebOpAdmin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="30" column="36" selection-start-line="30" selection-start-column="36" selection-end-line="30" selection-end-column="36" />
+          <folding>
+            <element signature="e#88#118#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/homework/projectPractise/python5.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="12" column="27" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/homework/projectPractise/python8.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/homework/projectPractise/robot_homework/tc/老师管理/添加老师.robot" />
+    <entry file="file://$PROJECT_DIR$/homework/projectPractise/robot_homework/cfg/cfg.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="65">
+          <caret line="10" column="45" lean-forward="true" selection-start-line="10" selection-start-column="45" selection-end-line="10" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/homework/projectPractise/robot_homework/tc/课程管理/添加课程.robot">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="8" column="9" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/homework/robotTest/homework5/tc/课程管理/添加课程.robot">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="11" column="42" selection-start-line="11" selection-start-column="42" selection-end-line="11" selection-end-column="42" />
+          <folding>
+            <element signature="e#0#44#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/homework/projectPractise/robot_homework/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/homework/robotTest/homework5/tc/老师管理/添加老师.robot">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="17" column="34" selection-start-line="17" selection-start-column="34" selection-end-line="17" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/homework/projectPractise/robot_homework/pylib/Web.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="99" column="20" selection-start-line="99" selection-start-column="20" selection-end-line="99" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
